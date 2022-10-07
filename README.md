@@ -11,4 +11,4 @@ Aşağıdaki bağlantıları kullanarak haftalık ders kaydı videosu, sunum, ö
 
 ### Hafta 1. Giriş / 7 Ekim 2021 14:00
 
-[Sunum]() ❖ [İzleme Listesi]() ❖ [Okuma Listesi]() ❖ [Alıştırmalar]()
+[Sunum](https://github.com/mcavs/ESTUStat_2022Guz_VeriGorsellestirme/blob/main/Sunumlar/VG_Hafta1.pdf) ❖ [İzleme Listesi](https://github.com/mcavs/ESTUStat_2022Guz_VeriGorsellestirme/tree/main/%C4%B0zleme%20Listesi) ❖ [Okuma Listesi](https://github.com/mcavs/ESTUStat_2022Guz_VeriGorsellestirme/tree/main/Okuma%20Listesi) 
