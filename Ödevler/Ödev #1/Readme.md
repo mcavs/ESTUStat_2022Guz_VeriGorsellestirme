@@ -1,5 +1,7 @@
 # Ödev 1
 
+"İsimSoyisim.pdf" şeklinde isimlendirdiğiniz raporunuzu Perşembe günü saat 23:59'a kadar bu klasöre yüklemeniz gerekmektedir.
+
 ## Ödev: Aşağıdaki maddeleri içeren bir rapor yazınız.
 
 Herhangi bir kaynaktan (web sayfası, kitap, vs. - Kaynak kitap ve derste anlattığım örnekler dışında -) edindiğiniz 3 farklı veri görselleştirme örneğine ilişkin:
