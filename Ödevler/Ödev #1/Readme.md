@@ -10,26 +10,11 @@ Herhangi bir kaynaktan (web sayfası, kitap, vs. - Kaynak kitap ve derste anlatt
 
   * görselleştirme çalışmasında kullanılan estetikleri (görsel öğeleri) (9 p. x 3)
 
-eksiksiz bir şekilde (herhangi bir değişken ya da öğeyi atlamadan) anlatan bir rapor hazırlayınız.
+eksiksiz bir şekilde (herhangi bir değişken ya da öğeyi atlamadan) anlatan bir raporu Quarto (https://quarto.org/) kullanarak hazırlayınız.
+
 
 ### Raporunuz aşağıdaki noktaları dikkate alarak hazırlanmalıdır: (25 p.)
 
-* uygun bir başlık (raporun içeriğini temsil eder nitelikte olmalı, basite kaçan "Ödev 2, Rapor 2, ya da Veri Görselleştirme Ödevi" şeklinde başlıklar kullanmayınız), (5 p.)
+* uygun bir başlık (raporun içeriğini temsil eder nitelikte olmalı, basite kaçan "Ödev 2, Rapor 2, ya da Veri Görselleştirme Ödevi" şeklinde başlıklar kullanmayınız), (10 p.)
 
-* özet (raporun ne içerdiğine dair kısa bir özet bölümü), (10 p.)
-
-* sayfa numaraları, (5 p.)
-
-* iki yana yaslanmış metin kullanımı (raporun rahat okunması ve göz yormaması için gereklidir). (5 p.)
-
-### Dikkat:
-
-* Lütfen raporunuzu hazırlarken yaratıcılığınızı kullanın. Eğer rapor formatları hakkında fikir edinmek isterseniz buraya göz atabilirsiniz: https://www.overleaf.com/latex/templates
-
-* Sizi doğru ya da yanlış yapmanıza göre değil, harcadığınız emek ve gösterdiğiniz özene göre notlandıracağım. Bu nedenle lütfen arkadaşlarınızdan ya da başka bir hazır kaynaktan aldığınız kopyala-yapıştır bir ödev göndermeyiniz.
-
-
-
-
-
-
+* özet (raporun ne içerdiğine dair kısa bir özet bölümü), (15 p.)
