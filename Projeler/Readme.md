@@ -19,8 +19,6 @@
 
 * Veri kaynağı metin içerisinde mutlaka belirtilmelidir. 
 
-* Dönem sonu sınav günü yapılacak olan sunumlar 3-4 dk sürecektir.
-
 * Poster hazırlama detaylarına [buradan](http://w3.bilecik.edu.tr/cografya/wp-content/uploads/sites/14/2017/03/Poster_ya_da_Poster_Bildiri_Nasil_Hazirlanir_-Uyumluluk-Modu.pdf) göz atabilirsiniz. Lütfen yalnızca bu kaynak ile sınırlı kalmayın, çok sayıda kaynağa internet üzerinden ulaşmanız mümkündür.
 
 * Severek kullandığım best poster yöntemine [buradan](https://github.com/GerkeLab/betterposter) göz atabilir, şablonlarından yararlanabilirsiniz.
