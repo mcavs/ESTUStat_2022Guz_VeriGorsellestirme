@@ -17,3 +17,5 @@ Aşağıdaki bağlantıları kullanarak haftalık ders kaydı videosu, sunum, ö
 ### Hafta 2. Görsel Öğeler - 14 Ekim 2021 13:00  - İL244
 
 [Sunum](https://github.com/mcavs/ESTUStat_2022Guz_VeriGorsellestirme/blob/main/Sunumlar/VG_Hafta2.pdf) ❖ [R Alıştırmaları]() ❖ [İzleme Listesi](https://github.com/mcavs/ESTUStat_2022Guz_VeriGorsellestirme/tree/main/%C4%B0zleme%20Listesi) ❖ [Okuma Listesi](https://github.com/mcavs/ESTUStat_2022Guz_VeriGorsellestirme/tree/main/Okuma%20Listesi) 
+
+### Hafta 3. Miktarların Görselleştirilmesi - 21 Ekim 2021 14:00  - İL244
