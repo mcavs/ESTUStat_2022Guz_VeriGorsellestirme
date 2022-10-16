@@ -27,7 +27,7 @@ eksiksiz bir şekilde (herhangi bir değişken ya da öğeyi atlamadan) anlatan 
 
 5. Başlık eklemek için # işaretiyle satıra başlayabilirsiniz.
 
-6. Görsel eklemek için "![Görsel 1](gorsel.jpg)" kodunu kullanabilirsiniz. "gorsel.jpg" bölümüne eklemek istediğiniz görselin tam adını yazdığınızdan emin olmalısınız. Eğer cloud üzerinde bu işlemleri yapıyorsanız: öncelikle sağ panelde yer alan "Upload" seçeneğiyle görseli cloud ortamına aktarmanız gerektiği unutmayınız.
+6. Görsel eklemek için $![Görsel 1](gorsel.jpg)$ kodunu kullanabilirsiniz. "gorsel.jpg" bölümüne eklemek istediğiniz görselin tam adını yazdığınızdan emin olmalısınız. Eğer cloud üzerinde bu işlemleri yapıyorsanız: öncelikle sağ panelde yer alan "Upload" seçeneğiyle görseli cloud ortamına aktarmanız gerektiği unutmayınız.
 
 7. Raporu oluşturmak için yukarıda yer alan "Render" butonunu kullanabilirsiniz. Rapor sorunsuz bir şekilde hazırlandığında sağ altta yer alan "Files" menüsünden erişilebilir olacaktır. 
 
