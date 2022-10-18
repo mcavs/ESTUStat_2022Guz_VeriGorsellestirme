@@ -15,6 +15,12 @@ Herhangi bir kaynaktan (web sayfası, kitap, vs. - Kaynak kitap ve derste anlatt
 eksiksiz bir şekilde (herhangi bir değişken ya da öğeyi atlamadan) anlatan bir raporu Quarto (https://quarto.org/) kullanarak hazırlayınız.
 
 
+### Raporunuz aşağıdaki noktaları dikkate alarak hazırlanmalıdır: (25 puan)
+
+* uygun bir başlık (raporun içeriğini temsil eder nitelikte olmalı, basite kaçan "Ödev 2, Rapor 2, ya da Veri Görselleştirme Ödevi" şeklinde başlıklar kullanmayınız), (10 puan)
+
+* özet (raporun ne içerdiğine dair kısa bir özet bölümü), (15 puan)
+
 ## **Quarto raporu hazırlamak için izlenilmesi gereken adımlar:** 
 
 1. R Studio Cloud üzerinden yeni script ekleme bölümünden "Quarto Document" seçeneğine tıklayın.
@@ -30,10 +36,3 @@ eksiksiz bir şekilde (herhangi bir değişken ya da öğeyi atlamadan) anlatan 
 6. Görsel eklemek için `![Görsel 1](gorsel.jpg)` kodunu kullanabilirsiniz. "gorsel.jpg" bölümüne eklemek istediğiniz görselin tam adını yazdığınızdan emin olmalısınız. Eğer cloud üzerinde bu işlemleri yapıyorsanız: öncelikle sağ panelde yer alan "Upload" seçeneğiyle görseli cloud ortamına aktarmanız gerektiği unutmayınız.
 
 7. Raporu oluşturmak için yukarıda yer alan "Render" butonunu kullanabilirsiniz. Rapor sorunsuz bir şekilde hazırlandığında sağ altta yer alan "Files" menüsünden erişilebilir olacaktır. 
-
-
-### Raporunuz aşağıdaki noktaları dikkate alarak hazırlanmalıdır: (25 puan)
-
-* uygun bir başlık (raporun içeriğini temsil eder nitelikte olmalı, basite kaçan "Ödev 2, Rapor 2, ya da Veri Görselleştirme Ödevi" şeklinde başlıklar kullanmayınız), (10 puan)
-
-* özet (raporun ne içerdiğine dair kısa bir özet bölümü), (15 puan)
