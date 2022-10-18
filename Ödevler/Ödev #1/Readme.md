@@ -6,11 +6,11 @@
 
 Herhangi bir kaynaktan (web sayfası, kitap, vs. - Kaynak kitap ve derste anlattığım örnekler dışında -) edindiğiniz 3 farklı veri görselleştirme örneğine ilişkin:
 
-  * Veri setinde yer alan değişkenleri (8 p. x 3),
+  * Veri setinde yer alan değişkenleri (8 puan x 3),
 
-  * değişken tiplerini (8 p. x 3),
+  * değişken tiplerini (8 puan x 3),
 
-  * görselleştirme çalışmasında kullanılan estetikleri (görsel öğeleri) (9 p. x 3)
+  * görselleştirme çalışmasında kullanılan estetikleri (görsel öğeleri) (9 puan x 3)
 
 eksiksiz bir şekilde (herhangi bir değişken ya da öğeyi atlamadan) anlatan bir raporu Quarto (https://quarto.org/) kullanarak hazırlayınız.
 
@@ -32,8 +32,8 @@ eksiksiz bir şekilde (herhangi bir değişken ya da öğeyi atlamadan) anlatan 
 7. Raporu oluşturmak için yukarıda yer alan "Render" butonunu kullanabilirsiniz. Rapor sorunsuz bir şekilde hazırlandığında sağ altta yer alan "Files" menüsünden erişilebilir olacaktır. 
 
 
-### Raporunuz aşağıdaki noktaları dikkate alarak hazırlanmalıdır: (25 p.)
+### Raporunuz aşağıdaki noktaları dikkate alarak hazırlanmalıdır: (25 puan)
 
-* uygun bir başlık (raporun içeriğini temsil eder nitelikte olmalı, basite kaçan "Ödev 2, Rapor 2, ya da Veri Görselleştirme Ödevi" şeklinde başlıklar kullanmayınız), (10 p.)
+* uygun bir başlık (raporun içeriğini temsil eder nitelikte olmalı, basite kaçan "Ödev 2, Rapor 2, ya da Veri Görselleştirme Ödevi" şeklinde başlıklar kullanmayınız), (10 puan)
 
-* özet (raporun ne içerdiğine dair kısa bir özet bölümü), (15 p.)
+* özet (raporun ne içerdiğine dair kısa bir özet bölümü), (15 puan)
