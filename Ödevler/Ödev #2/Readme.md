@@ -1,8 +1,14 @@
 # Ödev 2
 
-"İsimSoyisim.pdf" şeklinde isimlendirdiğiniz Quarto kullanarak hazırladığını raporunuzu Perşembe günü saat 23:59'a kadar bu klasöre yüklemeniz gerekmektedir.
+Atandığınız Case üzerindeki gerekli çalışmaları yaptığınız, "İsimSoyisim.pdf" şeklinde isimlendirdiğiniz ve Quarto kullanarak hazırladığınız raporunuzu Perşembe günü saat 23:59'a kadar bu klasöre yüklemeniz gerekmektedir.
 
--
+Case 1: AGC, ZAS, BT, BNA, ABÖ
+
+Case 2: BYÖ, Sİ, BÜ, SÖ, MK
+
+Case 3: DRB, RK, SUO, HK, ES
+
+Case 4: BŞ, MG, MD, KD, CU
 
 **Case 1)** `DALEX` paketinde bulunan `apartments` veri setini kullanarak aşağıda istenen görselleştirme çalışmalarını gerçekleştiriniz:
   
@@ -26,4 +32,6 @@
  
   * Araç tipine (`Type`) göre ortalama araç fiyatını (`Price`) görselleştiriniz ve yorumlayınız.
   * Araç tipine (`Type`) göre ortalama araç fiyatının (`Price`), aracın güvenilirlik (`Reliability`) düzeyine göre nasıl bir değişim gösterdiğini görselleştirerek araştırınız ve yorumlayınız.
+
+
 
