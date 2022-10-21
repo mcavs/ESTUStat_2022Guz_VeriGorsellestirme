@@ -2,7 +2,7 @@
 
 Yalnızca atandığınız (**Case 1:** AGC, ZAS, BT, BNA, ABÖ; **Case 2:** BYÖ, Sİ, BÜ, SÖ, MK; **Case 3:** DRB, RK, SUO, HK, ES; **Case 4:** BŞ, MG, MD, KD, CU) Case üzerindeki gerekli çalışmaları yaptığınız, "İsimSoyisim.pdf" şeklinde isimlendirdiğiniz ve Quarto kullanarak hazırladığınız raporunuzu Perşembe günü saat 23:59'a kadar bu klasöre yüklemeniz gerekmektedir.
 
-**Case 1)** `DALEX` paketinde bulunan `apartments` veri setini kullanarak aşağıda istenen görselleştirme çalışmalarını, derste değindiğimiz tüm önemli noktaları göz önünde bulundurarak uygun grafik türüne karar verip, gerçekleştiriniz:
+**Case 1)** `DALEX` paketinde bulunan `apartments` veri setini kullanarak aşağıda istenen görselleştirme çalışmalarını gerçekleştiriniz:
   
   * Bölgelere (`district`) göre evlerin ortalama metre kare (`m2.price`) fiyatlarını görselleştiriniz ve yorumlayınız. (20 + 20 puan)
   * Bölgelere (`district`) göre evlerin ortalama metre kare (`m2.price`) fiyatlarının, evde yer alan oda sayısına (`no.rooms`) nasıl bir değişim gösterdiğini görselleştirerek araştırınız ve yorumlayınız. (30 + 30 puan)
