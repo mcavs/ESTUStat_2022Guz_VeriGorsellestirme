@@ -10,8 +10,8 @@ Yalnızca atandığınız (**Case 1:** AGC, ZAS, BT, BNA, ABÖ; **Case 2:** BYÖ
  
  **Case 2)** `carData` paketinde bulunan `Salaries` veri setini kullanarak aşağıda verilen sorulara yanıt olabilecek görselleştirme çalışmalarını gerçekleştiriniz:
  
-  * Akademik ünvana (`district`) göre ortalama maaş (`salary`) miktarını görselleştiriniz ve yorumlayınız. (20 + 20 puan)
-  * Akademik ünvana (`district`) göre ortalama maaş (`salary`) miktarının, cinsiyete (`sex`) göre nasıl bir değişim gösterdiğini görselleştirerek araştırınız ve yorumlayınız. (30 + 30 puan)
+  * Akademik ünvana (`rank`) göre ortalama maaş (`salary`) miktarını görselleştiriniz ve yorumlayınız. (20 + 20 puan)
+  * Akademik ünvana (`rank`) göre ortalama maaş (`salary`) miktarının, cinsiyete (`sex`) göre nasıl bir değişim gösterdiğini görselleştirerek araştırınız ve yorumlayınız. (30 + 30 puan)
 
 
  **Case 3)** `MASS` paketinde bulunan `Insurance` veri setini kullanarak aşağıda verilen sorulara yanıt olabilecek görselleştirme çalışmalarını gerçekleştiriniz:
