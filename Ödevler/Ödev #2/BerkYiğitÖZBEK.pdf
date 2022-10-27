@@ -1,0 +1,92 @@
+---
+title: "Untitledzasa"
+format: pdf
+editor: visual
+mainfont: Times New Roman
+---
+
+## Akademik Ünvanın Maaş ve Cinsiyet ile Karşılaştırılması
+
+# ÖZET
+
+Bu rapor, "R" içerinde bulunan "carData" paketindeki veri setinin (Salaries) Akademik Ünvan - Ortalama Maaş ve Akademik Ünvan- Cinsiyet karşılaştırmaları ile grafik üzerinde görselleştirme ve yorumlama üzerine hazırlanmıştır.
+
+GEREKLİ PAKET PROGRAMLAR ve ÇAĞIRMA
+
+```{r}
+install.packages("rpart")
+install.packages("ggplot2")
+install.packages("dplyr")
+install.packages("tidyverse")
+install.packages("RColorBrewer")
+install.packages("carData")
+library(palmerpenguins)
+library(ggplot2)
+library(dplyr)
+library(tidyverse)
+library(carData)
+library(rpart)
+library(RColorBrewer)
+```
+
+#Örnek-1
+
+Kayıp Veri Çıkarma ve Ortalama Alma
+
+```{r}
+veri1 <- Salaries %>%
+drop_na() %>%
+group_by(rank) %>%
+dplyr::summarise(msalary = median(salary))
+```
+
+GRAFİK OLUŞTURMA ve DÜZENLEME
+
+```{r}
+library(ggplot2)
+ggplot(veri1, aes(x = rank, y = msalary )) +
+  geom_bar(stat = "identity", fill = "red", color = "black",
+width = 0.3) +
+  scale_y_continuous(labels = scales::comma) +
+  labs(x = "Akademik Ünvan",
+       y = "Maaş Miktarı ($)",
+       title = "Akademik Ünvana Göre Maaş Miktarı",
+       caption = "Veri Kaynağı: (carData/Salaries in R)") + 
+  theme(axis.title = element_text(face = "yellow" )) +
+theme_classic()
+```
+
+YORUM
+
+Akademik ünvan derecesinin artışı ile Dolar bazında ortalama maaş arasında pozitif yönlü bir ilişki olduğu açıktır. Yani, akademik ünvanda yükseldikçe ortalama maaşın (\$) da yükseldiği yorumunu çıkarabiliyoruz. Ayrıca, Prof (Profesör) maaşının en fazla olup, AsstProf (Yatdımcı Doçent) maaşının en az olduğu grafikten rahatlıkla çıkarılabilir.
+
+# ÖRNEK-2
+
+Kayıp Veri Çıkarma ve Ortalama Alma
+
+```{r}
+veri2 <- Salaries %>%
+drop_na() %>%
+filter(sex %in% c("Male","Female")) %>%
+group_by(rank, sex) %>%
+dplyr::summarise(mmsalary = median(salary))
+```
+
+GRAFİK OLUŞTURMA ve DÜZENLEME
+
+```{r}
+ggplot(veri2, aes(x = rank , y = mmsalary, fill = sex)) +
+geom_bar(stat = "identity", position = "dodge2") +
+labs(x = "Akademik Ünvan",
+y = "Ortalama Maaş ($)",
+fill = "Cinsiyet",
+title = "Akademik Ünvan Ortalama Maaşları ve Cinsiyet İlişkisi ",
+caption = "Veri Kaynağı: (carData/Salaries in R)") +
+theme(axis.title = element_text( face = "black" )) +
+scale_y_continuous(labels = scales:: comma) +
+theme_classic()
+```
+
+YORUM
+
+Bir önceki grafikten farklı olarak; yukarıdaki grafikten, her akademik ünvan derecesi için erkeklerin kadınlara göre ortalama maaşlarının(\$) daha fazla olduğu çıkarımı yapılır.
