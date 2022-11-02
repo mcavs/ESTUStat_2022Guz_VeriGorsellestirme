@@ -9,15 +9,17 @@ Aşağıdaki bağlantıları kullanarak haftalık ders kaydı videosu, sunum, ö
 
 ## İçerik
 
-### Hafta 1. Giriş - 7 Ekim 2021 14:00 - İD120
+### Hafta 1. Giriş - 7 Ekim 2022 14:00 - İD120
 
 [Sunum](https://github.com/mcavs/ESTUStat_2022Guz_VeriGorsellestirme/blob/main/Sunumlar/VG_Hafta1.pdf) ❖ [İzleme Listesi](https://github.com/mcavs/ESTUStat_2022Guz_VeriGorsellestirme/tree/main/%C4%B0zleme%20Listesi) ❖ [Okuma Listesi](https://github.com/mcavs/ESTUStat_2022Guz_VeriGorsellestirme/tree/main/Okuma%20Listesi) 
 
 
-### Hafta 2. Görsel Öğeler - 14 Ekim 2021 13:00  - İL244
+### Hafta 2. Görsel Öğeler - 14 Ekim 2022 13:00  - İL244
 
 [Sunum](https://github.com/mcavs/ESTUStat_2022Guz_VeriGorsellestirme/blob/main/Sunumlar/VG_Hafta2.pdf) ❖ [R Alıştırmaları](https://github.com/mcavs/ESTUStat_2022Guz_VeriGorsellestirme/blob/main/Al%C4%B1%C5%9Ft%C4%B1rmalar/VG_al%C4%B1s%CC%A7t%C4%B1rma_h2.R) ❖ [İzleme Listesi](https://github.com/mcavs/ESTUStat_2022Guz_VeriGorsellestirme/tree/main/%C4%B0zleme%20Listesi) ❖ [Okuma Listesi](https://github.com/mcavs/ESTUStat_2022Guz_VeriGorsellestirme/tree/main/Okuma%20Listesi) 
 
-### Hafta 3. Miktarların Görselleştirilmesi - 21 Ekim 2021 14:00  - İL244
+### Hafta 3. Miktarların Görselleştirilmesi - 21 Ekim 2022 14:00  - İL244
 
 [Sunum](https://github.com/mcavs/ESTUStat_2022Guz_VeriGorsellestirme/blob/main/Sunumlar/VG_Hafta3.pdf) ❖ [R Alıştırmaları](https://github.com/mcavs/ESTUStat_2022Guz_VeriGorsellestirme/blob/main/Al%C4%B1%C5%9Ft%C4%B1rmalar/VG_al%C4%B1s%CC%A7t%C4%B1rma_h3.R) 
+
+### Hafta 4. Dağılımların Görselleştirilmesi - 11 Kasım 2022 14:00  - İL244
