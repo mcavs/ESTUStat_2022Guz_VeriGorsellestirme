@@ -32,10 +32,12 @@ Aşağıdaki bağlantıları kullanarak haftalık ders kaydı videosu, sunum, ö
 
 ### Hafta 7. Zaman Serilerinin Görselleştirilmesi - 2 Aralık 2022 14:00  - İL244
 
-### Hafta 8. Mekansal Verilerin Görselleştirilmesi - 16 Aralık 2022 14:00  - İL244
+### Hafta 8. Mekansal Verilerin Görselleştirilmesi - 9 Aralık 2022 14:00  - İL244
 
-### Hafta 9. Görsel Tasarım İlkeleri ve Renk Kullanımında Yapılan Hatalar - 23 Aralık 2022 14:00  - İL244
+### Hafta 9. Görsel Tasarım İlkeleri ve Renk Kullanımında Yapılan Hatalar - 16 Aralık 2022 14:00  - İL244
 
-### Hafta 10. Yedekli Kodlama ve Çok Panelli Grafikler - 30 Aralık 2022 14:00  - İL244
+### Hafta 10. Yedekli Kodlama ve Çok Panelli Grafikler - 23 Aralık 2022 14:00  - İL244
+
+### Hafta 11. Proje Ön-inceleme - 30 Aralık 2022 14:00  - İL244
 
 ### Hafta 12. Proje Sunumları - 6 Ocak 2023 14:00  - İL244
