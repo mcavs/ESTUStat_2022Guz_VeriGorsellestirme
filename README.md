@@ -18,8 +18,24 @@ Aşağıdaki bağlantıları kullanarak haftalık ders kaydı videosu, sunum, ö
 
 [Sunum](https://github.com/mcavs/ESTUStat_2022Guz_VeriGorsellestirme/blob/main/Sunumlar/VG_Hafta2.pdf) ❖ [R Alıştırmaları](https://github.com/mcavs/ESTUStat_2022Guz_VeriGorsellestirme/blob/main/Al%C4%B1%C5%9Ft%C4%B1rmalar/VG_al%C4%B1s%CC%A7t%C4%B1rma_h2.R) ❖ [İzleme Listesi](https://github.com/mcavs/ESTUStat_2022Guz_VeriGorsellestirme/tree/main/%C4%B0zleme%20Listesi) ❖ [Okuma Listesi](https://github.com/mcavs/ESTUStat_2022Guz_VeriGorsellestirme/tree/main/Okuma%20Listesi) 
 
+
 ### Hafta 3. Miktarların Görselleştirilmesi - 21 Ekim 2022 14:00  - İL244
 
 [Sunum](https://github.com/mcavs/ESTUStat_2022Guz_VeriGorsellestirme/blob/main/Sunumlar/VG_Hafta3.pdf) ❖ [R Alıştırmaları](https://github.com/mcavs/ESTUStat_2022Guz_VeriGorsellestirme/blob/main/Al%C4%B1%C5%9Ft%C4%B1rmalar/VG_al%C4%B1s%CC%A7t%C4%B1rma_h3.R) 
 
+
 ### Hafta 4. Dağılımların Görselleştirilmesi - 11 Kasım 2022 14:00  - İL244
+
+### Hafta 5. Oranların Görselleştirilmesi - 18 Kasım 2022 14:00  - İL244
+
+### Hafta 6. İlişkilerin Görselleştirilmesi - 25 Kasım 2022 14:00  - İL244
+
+### Hafta 7. Zaman Serilerinin Görselleştirilmesi - 2 Aralık 2022 14:00  - İL244
+
+### Hafta 8. Mekansal Verilerin Görselleştirilmesi - 16 Aralık 2022 14:00  - İL244
+
+### Hafta 9. Görsel Tasarım İlkeleri ve Renk Kullanımında Yapılan Hatalar - 23 Aralık 2022 14:00  - İL244
+
+### Hafta 10. Yedekli Kodlama ve Çok Panelli Grafikler - 30 Aralık 2022 14:00  - İL244
+
+### Hafta 12. Proje Sunumları - 6 Ocak 2023 14:00  - İL244
