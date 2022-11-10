@@ -39,25 +39,51 @@ Yalnızca atandığınız Case üzerindeki gerekli çalışmaları yaptığını
 * Jenerasyonlarına göre hızlarının dağılımını araştırınız. En hızlı jenerasyonu belirleyiniz.
 
 
-**Case 5)** 
+**Case 5)** Big Bang Theory - [https://www.kaggle.com/datasets/bcruise/big-bang-theory-episodes](https://www.kaggle.com/datasets/bcruise/big-bang-theory-episodes)
+
+* Sezonlara göre IMDB puanlarının dağılımını araştırınız. En asimetrik puan dağılımı gözlemlenen sezonu belirleyiniz.
+
+* Sezonlara göre oy sayısının dağılımını araştırınız. Puan sayıları arasında en yüksek farklılıkların gözlendiği sezonu belirleyiniz.
 
 
-**Case 6)** 
+**Case 6)** Game of Thrones – [https://www.kaggle.com/datasets/rezaghari/game-of-thrones](https://www.kaggle.com/datasets/rezaghari/game-of-thrones)
+
+* Sezonlara göre bölüm süresi dağılımlarını inceleyiniz. Bölüm sürelerindeki en yüksek değişimin gözlendiği sezonu belirleyiniz.
+
+* Sezonlara göre rating dağılımlarını araştırınız. Rating değişiminin en düşük olduğu sezonu belirleyiniz.
+
+* Birinci yazara göre rating dağılımını araştırınız. Hangi yazarın senaryosunun daha yüksek rating aldığını belirleyiniz.
 
 
-**Case 7)** 
+**Case 7)** Friends - https://www.kaggle.com/datasets/bcruise/friends-episode-data
+
+* Sezonlara göre IMDB puanlarının dağılımını araştırınız. En asimetrik puan dağılımı gözlemlenen sezonu belirleyiniz.
+ 
+* Sezonlara göre oy sayısının dağılımını araştırınız. Puan sayıları arasında en yüksek farklılıkların gözlendiği sezonu belirleyiniz.
 
 
-**Case 8)** 
+**Case 8)** Breaking Bad - https://www.kaggle.com/datasets/varpit94/breaking-bad-tv-show-all-seasons-episodes-data
+
+* Sezonlara göre bölüm süresi dağılımlarını inceleyiniz. Bölüm sürelerindeki en yüksek değişimin gözlendiği sezonu belirleyiniz.
+
+* Sezonlara göre rating dağılımlarını araştırınız. Rating değişiminin en düşük olduğu sezonu belirleyiniz.
+
+* Sezonlara göre izlenme sayısı dağılımlarını araştırınız. İzlenme sayısı değişiminin en düşük olduğu sezonu belirleyiniz.
+
+
+**Case 9)** Marvel - https://www.kaggle.com/datasets/jcraggy/marvel-vs-dc-imdb-rotten-tomatoes
+
+* 2000 yılı öncesi-2000 yılı ve sonrası Marvel filmlerinin IMDB puanlarının dağılımını araştırınız. Hangi dönemde puanların daha değişken olduğunu belirtiniz.
+
+* 2000 yılı öncesi-2000 yılı ve sonrası Marvel filmlerinin süre dağılımlarını araştırınız. Hangi dönemde film sürelerinin daha değişken olduğunu belirtiniz.
+
 
 
 
 ## Bazı Önemli İpuçları
 
-* Lütfen yorumlarınıza, ödev başlığı ve alt başlıklarınıza özen gösteriniz. Daha iyi yorum yapabilmek için, öncelikle veri setini tanımanız gerektiğini unutmayınız. Google üzerinde aratarak, veri seti hakkında detaylı bilgi edinebilirsiniz.
-* R üzerinden bir paketten veri çağırmak için öncelikle paketi yükleyip `install.packages("paket_ismi")`, sonrasında paketi çağırıp `library(paket_ismi)` ve son adımda veri setini çağırmanız `data(verisetinin_ismi)` gerekmektedir. Enviroment ekranında verisetini gördüğünüzden emin olunuz.
-* Görselleştirme sırasında kullandığınız kategorik değişkenin `factor` tipinde bir R değişkeni olduğundan emin olmanız gerekmektedir. Bunu `class(değişken)` komutu ile konsol üzerinden kontrol edebilirsiniz. Eğer değilse `ggplot()` fonksiyonunda değişkeni kullandığınız yerde `factor(değişken)` şeklinde kullanmalısınız. 
-* Veri üzerinde yapmanız gereken ön işlemler için [3.hafta R alıştırmaları](https://github.com/mcavs/ESTUStat_2022Guz_VeriGorsellestirme/blob/main/Al%C4%B1%C5%9Ft%C4%B1rmalar/VG_al%C4%B1s%CC%A7t%C4%B1rma_h3.R)na göz atabilirsiniz. 
+* Grafikleri oluştururuken karşılaşabileceğiniz bazı sorunların çözümlerini için gereken ipuçlarını [burada](https://github.com/mcavs/ESTUStat_2022Guz_VeriGorsellestirme/issues/9) bulabilirsiniz.
+
 * Herhangi bir sorun ile karşılaşmanız durumunda öncelikle **Google**'layabilir, ikinci seçenek olarak `Issues` bölümü üzerinden yardım isteyebilir (buradaki sorulara hep birlikte yanıt arar, bildiklerimizi yanıtlarsak çok memnun olurum), son seçenek olarak bana e-mail ile ulaşabilirsiniz.
 
 
