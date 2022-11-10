@@ -105,6 +105,16 @@
 * IMDB puanı 7'den yüksek ve düşük olan filmlerin sürelerinin dağılımını karşılaştırınız.
 
 
+**Case 13)** FIFA 23 Players - https://www.kaggle.com/datasets/sooaaib/walt-disney-movies
+
+* Oyuncu değerlerinin (in Euro) dağılımlarını oynadıkları en iyi pozisyona göre araştırınız.
+
+* Oyuncu değerlerinin (in Euro) dağılımlarını oynadıkları en iyi pozisyona ve kullandıkları ayağa göre araştırınız.
+
+* Biri Türkiye olmak şartıyla seçtiğiniz 10 ülkenin futbolcularının değerlerinin dağılımını araştırınız.
+
+
+
 ## Bazı Önemli İpuçları
 
 * Grafikleri oluştururuken karşılaşabileceğiniz bazı sorunların çözümlerini için gereken ipuçlarını [burada](https://github.com/mcavs/ESTUStat_2022Guz_VeriGorsellestirme/issues/9) bulabilirsiniz.
