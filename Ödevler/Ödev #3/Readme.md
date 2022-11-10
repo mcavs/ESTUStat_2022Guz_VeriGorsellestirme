@@ -4,6 +4,13 @@
 
 **OPSİYONEL**: Ödeviniz ile ilgili R kodları, çıktıları ve grafik yorumlarını içeren **(opsiyonel olarak)** hazırlayacağınız GitHub reposunu ödevinize eklemeniz durumunda, ayrıca geri bildirim yapacağımın altını çizmek isterim. 
 
+## Atamalar
+
+SÖ - 8, 2, 3; BYÖ - 2, 9, 10; KD - 13, 8, 2; AGC - 1, 9, 11; MG - 7, 13, 1; MD - 5, 3, 9; BT - 4, 12, 7; DB - 1, 13, 10; ZAS - 3, 9, 10; BÜ - 2, 3, 11; HK - 10, 2, 9; Sİ - 8, 5, 3; RK - 3, 6, 11; BA - 2, 3, 4; BŞ - 5, 6, 7; CU - 8, 9, 10; MK - 11, 12, 13
+
+
+## Case'ler
+
 **Case 1)** NBA Stats - Veri kaynağı: [https://www.kaggle.com/datasets/vivovinco/20222023-nba-player-stats-regular](https://www.kaggle.com/datasets/vivovinco/20222023-nba-player-stats-regular)
 
 * Pozisyonlarına göre oyuncuların yaş dağılımını veri görselleştirme yöntemleriyle araştırınız.  Yaş dağılımı en çarpık olan pozisyonu araştırınız.
@@ -105,7 +112,7 @@
 * IMDB puanı 7'den yüksek ve düşük olan filmlerin sürelerinin dağılımını karşılaştırınız.
 
 
-**Case 13)** FIFA 23 Players - https://www.kaggle.com/datasets/sooaaib/walt-disney-movies
+**Case 13)** FIFA 23 Oyuncuları - https://www.kaggle.com/datasets/1898257a1915cbd22dd226f16c66dc218dfb65fd6f062755f4d0243bb8365a99
 
 * Oyuncu değerlerinin (in Euro) dağılımlarını oynadıkları en iyi pozisyona göre araştırınız.
 
