@@ -4,15 +4,39 @@ Yalnızca atandığınız Case üzerindeki gerekli çalışmaları yaptığını
 
 **Case 1)** NBA Stats - Veri kaynağı: [https://www.kaggle.com/datasets/vivovinco/20222023-nba-player-stats-regular](https://www.kaggle.com/datasets/vivovinco/20222023-nba-player-stats-regular)
 
+* Pozisyonlarına göre oyuncuların yaş dağılımını veri görselleştirme yöntemleriyle araştırınız.  Yaş dağılımı en çarpık olan pozisyonu araştırınız.
+
+* Pozisyonlarına göre oyuncuların attıklarını sayıların dağılımını veri görselleştirme yöntemleriyle araştırınız. En dengeli sayı dağılımının gözlendiği pozisyon hangisidir? 
+
+* Oyuncuların pozisyonlarına göre serbest atış yüzdelerinin dağılımını araştırınız. Serbest atış yüzdesi en düşük olan oyuncular hangi pozisyonda oynamaktadırlar?
+
  
  
-**Case 2)** 
+**Case 2)** Data Science Salary - [https://www.kaggle.com/datasets/whenamancodes/data-science-fields-salary-categorization](https://www.kaggle.com/datasets/whenamancodes/data-science-fields-salary-categorization)
+
+* Tecrübe düzeylerine göre veri bilimi pozisyonları aylık maaşlarının dolar karşılığı bazında dağılımını araştırınız.
+
+* Firma büyüklüğüne ve tecrübe düzeyine göre aylık maaş tutarı dağılımlarını araştırınız. Tecrübesiz adaylar için çalışmaya başlamak için en uygun firma ölçeği hangisidir?
+
+* Uzaktan çalışma yüzdesi sistemine göre yıllık maaş ücreti dağılımlarının değişimini araştırınız.
 
 
-**Case 3)** 
+**Case 3)** Bestseller books - [https://www.kaggle.com/datasets/sootersaalu/amazon-top-50-bestselling-books-2009-2019](https://www.kaggle.com/datasets/sootersaalu/amazon-top-50-bestselling-books-2009-2019)
+
+* Yıllara göre en çok satan kitapların fiyat dağılımının değişimini araştırınız.
+
+* Yıllara göre en çok satan kitapların aldıkları okuyucu puanı dağılımının değişimini araştırınız.
+
+* Türüne göre kitap fiyatlarının dağılımını araştırınız. 
 
 
-**Case 4)** 
+**Case 4)** Pokemon - [https://www.kaggle.com/datasets/kingabzpro/pokmon-legendary-data](https://www.kaggle.com/datasets/kingabzpro/pokmon-legendary-data)
+
+* Jenerasyonlarına göre pokemonların atak güçlerinin dağılımını araştırınız.
+
+* Jenerasyon ve efsane olup olmadıklarına göre atak güçlerinin dağılımını araştırınız.
+
+* Jenerasyonlarına göre hızlarının dağılımını araştırınız. En hızlı jenerasyonu belirleyiniz.
 
 
 **Case 5)** 
