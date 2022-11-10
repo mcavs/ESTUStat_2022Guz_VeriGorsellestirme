@@ -80,6 +80,29 @@
 * 2000 yılı öncesi-2000 yılı ve sonrası Marvel filmlerinin süre dağılımlarını araştırınız. Hangi dönemde film sürelerinin daha değişken olduğunu belirtiniz.
 
 
+**Case 10)** Avengers karikatür karakterleri - https://www.kaggle.com/datasets/mmmarchetti/avengers
+
+* Karakterlerin çizgi romanlarda görülme sayılarının dağılımını güncel karakter olup olmamaları durumuna göre araştırınız.
+
+* Karakterlerin çizgi romanlarda görülme sayılarının dağılımını hem güncel karakter olup olmamaları durumu hem de cinsiyetlerine göre araştırınız.
+
+
+**Case 11)** Türk TV dizileri - https://www.kaggle.com/datasets/emreokcular/turkish-tv-series
+
+* Dizi sürelerinin dağılımını araştırınız.
+
+* Dizi sürelerinin 2000 yılı öncesi ve sonrası dağılımını araştırınız.
+
+* Dizilerin sezon sayılarının dağılımını araştrınız.
+
+
+**Case 12)** Walt Disney filmleri - https://www.kaggle.com/datasets/sooaaib/walt-disney-movies
+
+* Film sürelerinin dağılımını araştırınız.
+
+* Filmlerin IMBD puanlarının dağılımını araştırınız.
+
+* IMDB puanı 7'den yüksek ve düşük olan filmlerin sürelerinin dağılımını karşılaştırınız.
 
 
 ## Bazı Önemli İpuçları
