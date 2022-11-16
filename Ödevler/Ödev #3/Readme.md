@@ -131,6 +131,10 @@ SÖ - 8, 2, 3; BYÖ - 2, 9, 10; KD - 13, 8, 2; AGC - 1, 9, 11; MG - 7, 13, 1; MD
 
 ## Bazı Önemli İpuçları
 
+* Grafiklerin tümüyle (evet eksenler ve lejant dahil olmak üzere) Türkçe olmasına özen gösteriniz. 
+
+* Yorumların yüzeysel olmaması, grafikten bilgi çıkaracak nitelikte olması önemlidir. Aksi taktirde yorumlanın bir anlamı olmaz.
+
 * Kolay okunur bir rapor oluşturabilmek için düzenli başlık kullanmaktan ve yeni sayfaya geçmekten çekinmeyin.
 
 * Grafikleri oluştururuken karşılaşabileceğiniz bazı sorunların çözümlerini için gereken ipuçlarını [burada](https://github.com/mcavs/ESTUStat_2022Guz_VeriGorsellestirme/issues/9) bulabilirsiniz.
