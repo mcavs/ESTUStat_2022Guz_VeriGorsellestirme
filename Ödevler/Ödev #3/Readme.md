@@ -125,8 +125,9 @@ SÖ - 8, 2, 3; BYÖ - 2, 9, 10; KD - 13, 8, 2; AGC - 1, 9, 11; MG - 7, 13, 1; MD
 
 * Özet - 10 puan,
 * Her case - 30 puan,
-* Her casedeki soru başına puan - 30 / soru sayısı,
-* Her soruda veri tanıtımı, doğru ya da doğruya en yakın grafiğin çizilmesi ve yorumu olmak üzere 3 ayrı madde üzerinden notlandırılacaktır.
+* Her casede veri tanıtımı 10 puan
+* Her casedeki soru başına puan - 20 / soru sayısı,
+* Her soruda doğru ya da doğruya en yakın grafiğin çizilmesi ve yorumu olmak üzere 2 ayrı madde üzerinden notlandırılacaktır.
 
 
 ## Bazı Önemli İpuçları
