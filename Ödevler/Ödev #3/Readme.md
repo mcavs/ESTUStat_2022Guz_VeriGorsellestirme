@@ -11,7 +11,7 @@ SÖ - 8, 2, 3; BYÖ - 2, 9, 10; KD - 13, 8, 2; AGC - 1, 9, 11; MG - 7, 13, 1; MD
 
 ## Case'ler
 
-**1.NBA Stats** - Veri kaynağı: [https://www.kaggle.com/datasets/vivovinco/20222023-nba-player-stats-regular](https://www.kaggle.com/datasets/vivovinco/20222023-nba-player-stats-regular)
+**1. NBA oyuncu istatistikleri** - Veri kaynağı: [https://www.kaggle.com/datasets/vivovinco/20222023-nba-player-stats-regular](https://www.kaggle.com/datasets/vivovinco/20222023-nba-player-stats-regular)
 
 * Pozisyonlarına göre oyuncuların yaş dağılımını veri görselleştirme yöntemleriyle araştırınız.  Yaş dağılımı en çarpık olan pozisyonu araştırınız.
 
@@ -21,7 +21,7 @@ SÖ - 8, 2, 3; BYÖ - 2, 9, 10; KD - 13, 8, 2; AGC - 1, 9, 11; MG - 7, 13, 1; MD
 
  
  
-**2.Data Science Salary** - [https://www.kaggle.com/datasets/whenamancodes/data-science-fields-salary-categorization](https://www.kaggle.com/datasets/whenamancodes/data-science-fields-salary-categorization)
+**2. Veri bilimci maaşları** - [https://www.kaggle.com/datasets/whenamancodes/data-science-fields-salary-categorization](https://www.kaggle.com/datasets/whenamancodes/data-science-fields-salary-categorization)
 
 * Tecrübe düzeylerine göre veri bilimi pozisyonları aylık maaşlarının dolar karşılığı bazında dağılımını araştırınız.
 
@@ -30,7 +30,7 @@ SÖ - 8, 2, 3; BYÖ - 2, 9, 10; KD - 13, 8, 2; AGC - 1, 9, 11; MG - 7, 13, 1; MD
 * Uzaktan çalışma yüzdesi sistemine göre yıllık maaş ücreti dağılımlarının değişimini araştırınız.
 
 
-**3.Bestseller books** - [https://www.kaggle.com/datasets/sootersaalu/amazon-top-50-bestselling-books-2009-2019](https://www.kaggle.com/datasets/sootersaalu/amazon-top-50-bestselling-books-2009-2019)
+**3. En çok satan kitaplar** - [https://www.kaggle.com/datasets/sootersaalu/amazon-top-50-bestselling-books-2009-2019](https://www.kaggle.com/datasets/sootersaalu/amazon-top-50-bestselling-books-2009-2019)
 
 * Yıllara göre en çok satan kitapların fiyat dağılımının değişimini araştırınız.
 
@@ -39,7 +39,7 @@ SÖ - 8, 2, 3; BYÖ - 2, 9, 10; KD - 13, 8, 2; AGC - 1, 9, 11; MG - 7, 13, 1; MD
 * Türüne göre kitap fiyatlarının dağılımını araştırınız. 
 
 
-**4. Pokemon** - [https://www.kaggle.com/datasets/kingabzpro/pokmon-legendary-data](https://www.kaggle.com/datasets/kingabzpro/pokmon-legendary-data)
+**4. Pokemon çizgi filmi** - [https://www.kaggle.com/datasets/kingabzpro/pokmon-legendary-data](https://www.kaggle.com/datasets/kingabzpro/pokmon-legendary-data)
 
 * Jenerasyonlarına göre pokemonların atak güçlerinin dağılımını araştırınız.
 
@@ -48,14 +48,14 @@ SÖ - 8, 2, 3; BYÖ - 2, 9, 10; KD - 13, 8, 2; AGC - 1, 9, 11; MG - 7, 13, 1; MD
 * Jenerasyonlarına göre hızlarının dağılımını araştırınız. En hızlı jenerasyonu belirleyiniz.
 
 
-**5. Big Bang Theory** - [https://www.kaggle.com/datasets/bcruise/big-bang-theory-episodes](https://www.kaggle.com/datasets/bcruise/big-bang-theory-episodes)
+**5. Big Bang Theory dizisi** - [https://www.kaggle.com/datasets/bcruise/big-bang-theory-episodes](https://www.kaggle.com/datasets/bcruise/big-bang-theory-episodes)
 
 * Sezonlara göre IMDB puanlarının dağılımını araştırınız. En asimetrik puan dağılımı gözlemlenen sezonu belirleyiniz.
 
 * Sezonlara göre oy sayısının dağılımını araştırınız. Puan sayıları arasında en yüksek farklılıkların gözlendiği sezonu belirleyiniz.
 
 
-**6. Game of Thrones** – [https://www.kaggle.com/datasets/rezaghari/game-of-thrones](https://www.kaggle.com/datasets/rezaghari/game-of-thrones)
+**6. Game of Thrones dizisi** – [https://www.kaggle.com/datasets/rezaghari/game-of-thrones](https://www.kaggle.com/datasets/rezaghari/game-of-thrones)
 
 * Sezonlara göre bölüm süresi dağılımlarını inceleyiniz. Bölüm sürelerindeki en yüksek değişimin gözlendiği sezonu belirleyiniz.
 
@@ -64,14 +64,14 @@ SÖ - 8, 2, 3; BYÖ - 2, 9, 10; KD - 13, 8, 2; AGC - 1, 9, 11; MG - 7, 13, 1; MD
 * Birinci yazara göre rating dağılımını araştırınız. Hangi yazarın senaryosunun daha yüksek rating aldığını belirleyiniz.
 
 
-**7. Friends** - https://www.kaggle.com/datasets/bcruise/friends-episode-data
+**7. Friends dizisi** - https://www.kaggle.com/datasets/bcruise/friends-episode-data
 
 * Sezonlara göre IMDB puanlarının dağılımını araştırınız. En asimetrik puan dağılımı gözlemlenen sezonu belirleyiniz.
  
 * Sezonlara göre oy sayısının dağılımını araştırınız. Puan sayıları arasında en yüksek farklılıkların gözlendiği sezonu belirleyiniz.
 
 
-**8. Breaking Bad** - https://www.kaggle.com/datasets/varpit94/breaking-bad-tv-show-all-seasons-episodes-data
+**8. Breaking Bad dizisi** - https://www.kaggle.com/datasets/varpit94/breaking-bad-tv-show-all-seasons-episodes-data
 
 * Sezonlara göre bölüm süresi dağılımlarını inceleyiniz. Bölüm sürelerindeki en yüksek değişimin gözlendiği sezonu belirleyiniz.
 
@@ -80,7 +80,7 @@ SÖ - 8, 2, 3; BYÖ - 2, 9, 10; KD - 13, 8, 2; AGC - 1, 9, 11; MG - 7, 13, 1; MD
 * Sezonlara göre izlenme sayısı dağılımlarını araştırınız. İzlenme sayısı değişiminin en düşük olduğu sezonu belirleyiniz.
 
 
-**9. Marvel** - https://www.kaggle.com/datasets/jcraggy/marvel-vs-dc-imdb-rotten-tomatoes
+**9. Marvel filmleri** - https://www.kaggle.com/datasets/jcraggy/marvel-vs-dc-imdb-rotten-tomatoes
 
 * 2000 yılı öncesi-2000 yılı ve sonrası Marvel filmlerinin IMDB puanlarının dağılımını araştırınız. Hangi dönemde puanların daha değişken olduğunu belirtiniz.
 
@@ -123,10 +123,10 @@ SÖ - 8, 2, 3; BYÖ - 2, 9, 10; KD - 13, 8, 2; AGC - 1, 9, 11; MG - 7, 13, 1; MD
 
 ## Notlandırma
 
-* Özet - 10 puan
-* Her case - 30 puan
-* Her casedeki soru başına puan - 30 / soru sayısı
-* Her casede veri tanıtımı 10, doğru ya da doğruya en yakın grafik 10, yorum 10 puan
+* Özet - 10 puan,
+* Her case - 30 puan,
+* Her casedeki soru başına puan - 30 / soru sayısı,
+* Her soruda veri tanıtımı, doğru ya da doğruya en yakın grafiğin çizilmesi ve yorumu olmak üzere 3 ayrı madde üzerinden notlandırılacaktır.
 
 
 ## Bazı Önemli İpuçları
