@@ -1,6 +1,6 @@
 # Ödev 3
 
-(1) Özet bölümü, (2) atanan case'ler yer alan veri setinin tanıtımını içeren bir bölüm ve (3) case'lerde yer alan araştırma sorularının her biri bir bölüm olacak şekilde hazırladığınız, "İsimSoyisim.pdf" şeklinde isimlendirdiğiniz ve Quarto kullanarak hazırladığınız raporunuzu 16 Kasım Perşembe günü saat 23:59'a kadar bu klasöre yüklemeniz gerekmektedir.
+(1) Özet bölümü, (2) atanan case'ler yer alan veri setinin tanıtımını içeren bir bölüm ve (3) case'lerde yer alan araştırma sorularının her biri bir bölüm olacak şekilde hazırladığınız (bu bölümlerde kullanılan kodlar, grafik ve grafiğe ilişkin işe yarar, özenli yorumlar yer almalı), "İsimSoyisim.pdf" şeklinde isimlendirdiğiniz ve Quarto kullanarak hazırladığınız raporunuzu 16 Kasım Perşembe günü saat 23:59'a kadar bu klasöre yüklemeniz gerekmektedir.
 
 **OPSİYONEL**: Ödeviniz ile ilgili R kodları, çıktıları ve grafik yorumlarını içeren **(opsiyonel olarak)** hazırlayacağınız GitHub reposunu ödevinize eklemeniz durumunda, ayrıca geri bildirim yapacağımın altını çizmek isterim. 
 
@@ -120,6 +120,13 @@ SÖ - 8, 2, 3; BYÖ - 2, 9, 10; KD - 13, 8, 2; AGC - 1, 9, 11; MG - 7, 13, 1; MD
 
 * Biri Türkiye olmak şartıyla seçtiğiniz 10 ülkenin futbolcularının değerlerinin dağılımını araştırınız.
 
+
+## Notlandırma
+
+* Özet - 10 puan
+* Her case - 30 puan
+* Her casedeki soru başına puan - 30 / soru sayısı
+* Her casede veri tanıtımı 10, doğru ya da doğruya en yakın grafik 10, yorum 10 puan
 
 
 ## Bazı Önemli İpuçları
