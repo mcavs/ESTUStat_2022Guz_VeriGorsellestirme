@@ -6,7 +6,7 @@
 
 ## Atamalar
 
-SÖ - 6, 2, 3; BYÖ - 2, 7, 8; KD - 10, 6, 2; AGC - 1, 7, 9; MG - 11, 10, 1; MD - 3, 7, 2; BT - 4, 6, 5; DRB - 10, 11, 1; ZAS - 3, 11, 7; BÜ - 2, 11, 3; HK - 8, 7, 2; Sİ - 6, 3, 11; RK - 3, 5, 9
+SÖ - 6, 2, 3; BYÖ - 2, 7, 8; KD - 10, 6, 2; AGC - 1, 7, 9; MG - 11, 10, 1; MD - 3, 7, 2; BT - 4, 6, 5; DRB - 10, 11, 1; ZAS - 3, 11, 7; BÜ - 2, 11, 3; HK - 8, 7, 2; Sİ - 6, 3, 11; RK - 3, 5, 9; Listede ismi bulunmayanlar herhangi 3 case'i seçip ödevlerini hazırlayabilirler.
 
 
 ## Case'ler
