@@ -1,3 +1,14 @@
+# ÖNEMLİ
+
+Quarto'da PDF render etmekte sorun yaşayanlar ödevini HTML seçeneği üzerinden de yapabilirler. Bunun için Quarto dökümanı oluşturma aşamasında PDF yerine HTML seçimi yapmanız gerekmektedir. Eğer HTML formatında hazırlarsanız, oluşan tüm dosya ve veri setlerini içeren adınız ve soyadınız ile isimlendirdiğiniz klasörü sıkıştırarak (.zip dosyası) GitHub'a yükleyebilirsiniz.
+
+PDF formatında render problemini çözmek için, cloud ya da lokal RStudio farketmeksizin aşağıdaki kodu ilgili veri setini kullanmadan önce çalıştırmanız gerekiyor:
+
+```
+library(readr)
+veri_seti <- read_csv("veri_seti.csv")
+```
+
 # Ödev 3
 
 (1) Özet bölümü, (2) atanan case'ler yer alan veri setinin tanıtımını içeren bir bölüm ve (3) case'lerde yer alan araştırma sorularının her biri bir bölüm olacak şekilde hazırladığınız (bu bölümlerde kullanılan kodlar, grafik ve grafiğe ilişkin işe yarar, özenli yorumlar yer almalı), "İsimSoyisim.pdf" şeklinde isimlendirdiğiniz ve Quarto kullanarak hazırladığınız raporunuzu 16 Kasım Perşembe günü saat 23:59'a kadar bu klasöre yüklemeniz gerekmektedir.
