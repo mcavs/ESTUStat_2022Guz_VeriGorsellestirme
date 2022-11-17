@@ -1,6 +1,6 @@
 # Ödev 4
 
-(1) Özet bölümü, (2) atanan case'ler yer alan veri setinin tanıtımını içeren bir bölüm ve (3) case'lerde yer alan araştırma sorularının her biri bir bölüm olacak şekilde hazırladığınız (bu bölümlerde kullanılan kodlar, grafik ve grafiğe ilişkin işe yarar, özenli yorumlar yer almalı), "İsimSoyisim.pdf" şeklinde isimlendirdiğiniz ve Quarto kullanarak hazırladığınız raporunuzu 16 Kasım Perşembe günü saat 23:59'a kadar bu klasöre yüklemeniz gerekmektedir.
+(1) Özet bölümü, (2) atanan case'ler yer alan veri setinin tanıtımını içeren bir bölüm ve (3) case'lerde yer alan araştırma sorularının her biri bir bölüm olacak şekilde hazırladığınız (bu bölümlerde kullanılan kodlar, grafik ve grafiğe ilişkin işe yarar, özenli yorumlar yer almalı), "İsimSoyisim.pdf" şeklinde isimlendirdiğiniz ve Quarto kullanarak hazırladığınız raporunuzu 24 Kasım Perşembe günü saat 23:59'a kadar bu klasöre yüklemeniz gerekmektedir.
 
 **OPSİYONEL**: Ödeviniz ile ilgili R kodları, çıktıları ve grafik yorumlarını içeren **(opsiyonel olarak)** hazırlayacağınız GitHub reposunu ödevinize eklemeniz durumunda, ayrıca geri bildirim yapacağımın altını çizmek isterim. 
 
@@ -13,55 +13,47 @@ SÖ - 8, 2, 3; BYÖ - 2, 9, 10; KD - 13, 8, 2; AGC - 1, 9, 11; MG - 7, 13, 1; MD
 
 **1. NBA oyuncu istatistikleri** - Veri kaynağı: [https://www.kaggle.com/datasets/vivovinco/20222023-nba-player-stats-regular](https://www.kaggle.com/datasets/vivovinco/20222023-nba-player-stats-regular)
 
-* Pozisyonlarına göre oyuncuların sayılarını veri görselleştirme yöntemleriyle araştırınız. Tüm oyuncular arasında en yüksek ve en düşük orana sahip olan pozisyonları belirtiniz.
+* Pozisyonlarına göre oyuncu sayılarını (attıkları sayılar değil) veri görselleştirme yöntemleriyle araştırınız. Tüm oyuncular arasında en yüksek ve en düşük orana sahip olan pozisyonları belirtiniz.
 
-* Pozisyonlarına göre oyuncuların attıkları sayıları veri görselleştirme yöntemleriyle araştırınız. En fazla ve en az sayı atan oyuncuların oynadıkları pozisyonları belirtiniz? 
+* Atılan sayıların oyuncuların oynadıkları pozisyonlarına göre oranını veri görselleştirme yöntemleriyle araştırınız. Tüm oyuncular arasında en fazla ve en az sayı atan oyuncuların oynadıkları pozisyonları belirtiniz? 
 
-* Oyuncuların pozisyonlarına ve yaş gruplarına (1. grup: 19-23, 2. grup: 24-28 yaş, 3.grup: 28-32 yaş, 4.grup: 32+ yaş) göre attıkları sayıları araştırınız. En fazla ve en az sayı atan yaş grubu ve pozisyonu belirleyiniz.
+* Atılan sayıların oyuncuların pozisyonlarına ve yaş gruplarına (1. grup: 19-23, 2. grup: 24-28 yaş, 3.grup: 28-32 yaş, 4.grup: 32+ yaş) göre oranını araştırınız. Tüm oyuncular arasında en fazla ve en az sayı atan yaş grubu ve pozisyonu belirleyiniz.
 
- 
  
 **2. Veri bilimci maaşları** - [https://www.kaggle.com/datasets/whenamancodes/data-science-fields-salary-categorization](https://www.kaggle.com/datasets/whenamancodes/data-science-fields-salary-categorization)
 
-* Tecrübe düzeylerine göre veri bilimi pozisyonları aylık maaşlarının dolar karşılığı bazında dağılımını araştırınız.
+* Tecrübelerine göre veri bilimci sayılarının oranını veri görselleştirme yöntemleriyle araştırınız. Veri bilimciler arasında en yüksek ve en düşük orana sahip tecrübe düzeylerini belirtiniz.
 
-* Firma büyüklüğüne ve tecrübe düzeyine göre aylık maaş tutarı dağılımlarını araştırınız. Tecrübesiz adaylar için çalışmaya başlamak için en uygun firma ölçeği hangisidir?
+* Veri bilimcilerinin çalışma sistemine göre oranlarını veri görselleştirme yöntemleriyle araştırınız. 
 
-* Uzaktan çalışma yüzdesi sistemine göre yıllık maaş ücreti dağılımlarının değişimini araştırınız.
+* Firma büyüklüğüne ve tecrübe düzeyine göre veri bilimci sayılarının oranını araştırınız. Tecrübesiz ve tecrübeli veri bilimcilerin sayıca en fazla ve en az çalıştıkları firma büyüklüklerini belirtiniz.
 
 
 **3. En çok satan kitaplar** - [https://www.kaggle.com/datasets/sootersaalu/amazon-top-50-bestselling-books-2009-2019](https://www.kaggle.com/datasets/sootersaalu/amazon-top-50-bestselling-books-2009-2019)
 
-* Yıllara göre en çok satan kitapların fiyat dağılımının değişimini araştırınız.
+* En çok satan kitapların türlerine göre oranlarını veri görselleştirme yöntemleriyle araştırınız. 
 
-* Yıllara göre en çok satan kitapların aldıkları okuyucu puanı dağılımının değişimini araştırınız.
-
-* Türüne göre kitap fiyatlarının dağılımını araştırınız. 
+* En çok satan kitapların türlerine  ve kullanıcı reytingine (iki gruba ayırınız: 4 puan altı ve üstü) göre oranlarını veri görselleştirme yöntemleriyle araştırınız. 
 
 
 **4. Pokemon çizgi filmi** - [https://www.kaggle.com/datasets/kingabzpro/pokmon-legendary-data](https://www.kaggle.com/datasets/kingabzpro/pokmon-legendary-data)
 
-* Jenerasyonlarına göre pokemonların atak güçlerinin dağılımını araştırınız.
+* Tiplerine göre pokemonların oranlarını veri görselleştirme yöntemleriyle araştırınız. 
 
-* Jenerasyon ve efsane olup olmadıklarına göre atak güçlerinin dağılımını araştırınız.
-
-* Jenerasyonlarına göre hızlarının dağılımını araştırınız. En hızlı jenerasyonu belirleyiniz.
+* Jenerasyon ve efsane olup olmadıklarına göre pokemonların oranlarını veri görselleştirme yöntemleriyle araştırınız. 
 
 
 **5. Big Bang Theory dizisi** - [https://www.kaggle.com/datasets/bcruise/big-bang-theory-episodes](https://www.kaggle.com/datasets/bcruise/big-bang-theory-episodes)
 
-* Sezonlara göre IMDB puanlarının dağılımını araştırınız. En asimetrik puan dağılımı gözlemlenen sezonu belirleyiniz.
-
-* Sezonlara göre oy sayısının dağılımını araştırınız. Puan sayıları arasında en yüksek farklılıkların gözlendiği sezonu belirleyiniz.
 
 
 **6. Game of Thrones dizisi** – [https://www.kaggle.com/datasets/rezaghari/game-of-thrones](https://www.kaggle.com/datasets/rezaghari/game-of-thrones)
 
-* Sezonlara göre bölüm süresi dağılımlarını inceleyiniz. Bölüm sürelerindeki en yüksek değişimin gözlendiği sezonu belirleyiniz.
+* Başrol (Star1) oyuncularının oranlarını veri görselleştirme yöntemleriyle araştırınız. 
 
-* Sezonlara göre rating dağılımlarını araştırınız. Rating değişiminin en düşük olduğu sezonu belirleyiniz.
+* Başrol (Star2) oyuncularının oranlarını reyting değelerlerine göre (iki gruba ayırınız: 8 puan altı ve üstü) veri görselleştirme yöntemleriyle araştırınız. 
 
-* Birinci yazara göre rating dağılımını araştırınız. Hangi yazarın senaryosunun daha yüksek rating aldığını belirleyiniz.
+* Başrol (Star3) oyuncularının oranlarını reyting değelerlerine göre (iki gruba ayırınız: 8 puan altı ve üstü) veri görselleştirme yöntemleriyle araştırınız. 
 
 
 **7. Friends dizisi** - https://www.kaggle.com/datasets/bcruise/friends-episode-data
