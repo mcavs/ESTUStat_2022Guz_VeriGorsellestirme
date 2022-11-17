@@ -13,11 +13,11 @@ SÖ - 8, 2, 3; BYÖ - 2, 9, 10; KD - 13, 8, 2; AGC - 1, 9, 11; MG - 7, 13, 1; MD
 
 **1. NBA oyuncu istatistikleri** - Veri kaynağı: [https://www.kaggle.com/datasets/vivovinco/20222023-nba-player-stats-regular](https://www.kaggle.com/datasets/vivovinco/20222023-nba-player-stats-regular)
 
-* Pozisyonlarına göre oyuncuların yaş dağılımını veri görselleştirme yöntemleriyle araştırınız. Yaş dağılımı en çarpık olan pozisyonu araştırınız.
+* Pozisyonlarına göre oyuncuların sayılarını veri görselleştirme yöntemleriyle araştırınız. Tüm oyuncular arasında en yüksek ve en düşük orana sahip olan pozisyonları belirtiniz.
 
-* Pozisyonlarına göre oyuncuların attıklarını sayıların dağılımını veri görselleştirme yöntemleriyle araştırınız. En dengeli sayı dağılımının gözlendiği pozisyon hangisidir? 
+* Pozisyonlarına göre oyuncuların attıkları sayıları veri görselleştirme yöntemleriyle araştırınız. En fazla ve en az sayı atan oyuncuların oynadıkları pozisyonları belirtiniz? 
 
-* Oyuncuların pozisyonlarına göre serbest atış yüzdelerinin dağılımını araştırınız. Serbest atış yüzdesi en düşük olan oyuncular hangi pozisyonda oynamaktadırlar?
+* Oyuncuların pozisyonlarına ve yaş gruplarına (1. grup: 19-23, 2. grup: 24-28 yaş, 3.grup: 28-32 yaş, 4.grup: 32+ yaş) göre attıkları sayıları araştırınız. En fazla ve en az sayı atan yaş grubu ve pozisyonu belirleyiniz.
 
  
  
