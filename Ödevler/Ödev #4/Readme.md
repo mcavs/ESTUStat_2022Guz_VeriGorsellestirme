@@ -1,12 +1,12 @@
 # Ödev 4
 
-(1) Özet bölümü, (2) atanan case'ler yer alan veri setinin tanıtımını içeren bir bölüm ve (3) case'lerde yer alan araştırma sorularının her biri bir bölüm olacak şekilde hazırladığınız (bu bölümlerde kullanılan kodlar, grafik ve grafiğe ilişkin işe yarar, özenli yorumlar yer almalı), "İsimSoyisim.pdf" şeklinde isimlendirdiğiniz ve Quarto kullanarak hazırladığınız raporunuzu 24 Kasım Perşembe günü saat 23:59'a kadar bu klasöre yüklemeniz gerekmektedir.
+(1) Özet bölümü, (2) atanan case'ler yer alan veri setinin tanıtımını içeren bir bölüm ve (3) case'lerde yer alan araştırma sorularının her biri bir bölüm olacak şekilde hazırladığınız (bu bölümlerde kullanılan kodlar, grafik ve grafiğe ilişkin işe yarar, özenli yorumlar yer almalı), Quarto kullanarak hazırladığınız ve "İsimSoyisim" şeklinde isimlendirdiğiniz PDF veya HTML formatındaki raporunuzu 24 Kasım Perşembe günü saat 23:59'a kadar bu klasöre yüklemeniz gerekmektedir.
 
 **OPSİYONEL**: Ödeviniz ile ilgili R kodları, çıktıları ve grafik yorumlarını içeren **(opsiyonel olarak)** hazırlayacağınız GitHub reposunu ödevinize eklemeniz durumunda, ayrıca geri bildirim yapacağımın altını çizmek isterim. 
 
 ## Atamalar
 
-SÖ - 8, 2, 3; BYÖ - 2, 9, 10; KD - 13, 8, 2; AGC - 1, 9, 11; MG - 7, 13, 1; MD - 5, 3, 9; BT - 4, 12, 7; DB - 1, 13, 10; ZAS - 3, 9, 10; BÜ - 2, 3, 11; HK - 10, 2, 9; Sİ - 8, 5, 3; RK - 3, 6, 11; BA - 2, 3, 4; BŞ - 5, 6, 7; CU - 8, 9, 10; MK - 11, 12, 13
+SÖ - 6, 2, 3; BYÖ - 2, 7, 8; KD - 10, 6, 2; AGC - 1, 7, 9; MG - 11, 10, 1; MD - 3, 7, 2; BT - 4, 6, 5; DRB - 10, 11, 1; ZAS - 3, 11, 7; BÜ - 2, 11, 3; HK - 8, 7, 2; Sİ - 6, 3, 11; RK - 3, 5, 9
 
 
 ## Case'ler
@@ -43,11 +43,7 @@ SÖ - 8, 2, 3; BYÖ - 2, 9, 10; KD - 13, 8, 2; AGC - 1, 9, 11; MG - 7, 13, 1; MD
 * Jenerasyon ve efsane olup olmadıklarına göre pokemonların oranlarını veri görselleştirme yöntemleriyle araştırınız. 
 
 
-**5. Big Bang Theory dizisi** - [https://www.kaggle.com/datasets/bcruise/big-bang-theory-episodes](https://www.kaggle.com/datasets/bcruise/big-bang-theory-episodes)
-
-
-
-**6. Game of Thrones dizisi** – [https://www.kaggle.com/datasets/rezaghari/game-of-thrones](https://www.kaggle.com/datasets/rezaghari/game-of-thrones)
+**5. Game of Thrones dizisi** – [https://www.kaggle.com/datasets/rezaghari/game-of-thrones](https://www.kaggle.com/datasets/rezaghari/game-of-thrones)
 
 * Başrol (Star1) oyuncularının oranlarını veri görselleştirme yöntemleriyle araştırınız. 
 
@@ -56,53 +52,50 @@ SÖ - 8, 2, 3; BYÖ - 2, 9, 10; KD - 13, 8, 2; AGC - 1, 9, 11; MG - 7, 13, 1; MD
 * Başrol (Star3) oyuncularının oranlarını reyting değelerlerine göre (iki gruba ayırınız: 8 puan altı ve üstü) veri görselleştirme yöntemleriyle araştırınız. 
 
 
-
-**8. Breaking Bad dizisi** - https://www.kaggle.com/datasets/varpit94/breaking-bad-tv-show-all-seasons-episodes-data
+**6. Breaking Bad dizisi** - https://www.kaggle.com/datasets/varpit94/breaking-bad-tv-show-all-seasons-episodes-data
 
 * Bölümlerin yazar sayısına göre oranlarını veri görselleştirme yöntemleriyle araştırınız.
 
 * Bölümlerin yazar sayısına ve reyting puanlarına (iki gruba ayırınız: 9 puan altı ve üstü) göre oranlarını veri görselleştirme yöntemleriyle araştırınız.
 
 
-**9. Marvel filmleri** - https://www.kaggle.com/datasets/jcraggy/marvel-vs-dc-imdb-rotten-tomatoes
+**7. Marvel filmleri** - https://www.kaggle.com/datasets/jcraggy/marvel-vs-dc-imdb-rotten-tomatoes
 
 * Filmlerin türlerine göre oranlarına veri görselleştirme yöntemleriyle araştırınız. (Her bir türü grafikte ayrı ayrı kullanınız, oranları iki veya daha fazla tür üzerinden etiketlemeyiniz.)
 
 * Filmlerin türlerine ve uzunluklarına (iki gruba ayırınız: 120 dakika altı ve üstü) göre oranlarına veri görselleştirme yöntemleriyle araştırınız. (Her bir türü grafikte ayrı ayrı kullanınız, oranları iki veya daha fazla tür üzerinden etiketlemeyiniz.)
 
 
-**10. Avengers karikatür karakterleri*** - https://www.kaggle.com/datasets/mmmarchetti/avengers
+**8. Avengers karikatür karakterleri*** - https://www.kaggle.com/datasets/mmmarchetti/avengers
 
 * Karakterlerin cinsiyetlerine göre oranını veri görselleştirme yöntemleriyle araştırınız.
 
 * Karakterlerin cinsiyetlerine ve ölüm durumlarına (yalnızca Death1) göre oranını veri görselleştirme yöntemleriyle araştırınız.
 
 
-**11. Türk TV dizileri** - https://www.kaggle.com/datasets/emreokcular/turkish-tv-series
+**9. Türk TV dizileri** - https://www.kaggle.com/datasets/emreokcular/turkish-tv-series
 
-* Dizi sürelerinin dağılımını araştırınız.
+* Dizilerin türlerine göre oranlarına veri görselleştirme yöntemleriyle araştırınız. (Her bir türü grafikte ayrı ayrı kullanınız, oranları iki veya daha fazla tür üzerinden etiketlemeyiniz.)
 
-* Dizi sürelerinin 2000 yılı öncesi ve sonrası dağılımını araştırınız.
-
-* Dizilerin sezon sayılarının dağılımını araştrınız.
+* Dizilerin türlerine ve sezon sayılarına (iki gruba ayırınız: 1 sezon ve 1 sezondan fazla) göre oranlarına veri görselleştirme yöntemleriyle araştırınız. (Her bir türü grafikte ayrı ayrı kullanınız, oranları iki veya daha fazla tür üzerinden etiketlemeyiniz.)
 
 
-**12. Walt Disney filmleri** - https://www.kaggle.com/datasets/sooaaib/walt-disney-movies
+**10. FIFA 23 Oyuncuları** - https://www.kaggle.com/datasets/1898257a1915cbd22dd226f16c66dc218dfb65fd6f062755f4d0243bb8365a99
 
-* Film sürelerinin dağılımını araştırınız.
+* Oyuncu sayılarının en iyi oynadıkları pozisyona göre oranlarını veri görselleştirme yöntemleriyle araştırınız.
 
-* Filmlerin IMBD puanlarının dağılımını araştırınız.
+* Oyuncu sayılarının kontrat sürelerine (contract until) göre oranlarını veri görselleştirme yöntemleriyle araştırınız.
 
-* IMDB puanı 7'den yüksek ve düşük olan filmlerin sürelerinin dağılımını karşılaştırınız.
+* Oyuncu sayılarının en iyi oynadıkları pozisyona ve kullandıkları ayaklarına göre oranlarını veri görselleştirme yöntemleriyle araştırınız.
 
 
-**13. FIFA 23 Oyuncuları** - https://www.kaggle.com/datasets/1898257a1915cbd22dd226f16c66dc218dfb65fd6f062755f4d0243bb8365a99
+**11. Harry Potter Karakterleri** - https://www.kaggle.com/datasets/gulsahdemiryurek/harry-potter-dataset (Characters.csv dosyasını kullanınız.)
 
-* Oyuncu değerlerinin (in Euro) dağılımlarını oynadıkları en iyi pozisyona göre araştırınız.
+* Karakterlerin cinsiyetlerine göre oranını veri görselleştirme yöntemleriyle araştırınız.
 
-* Oyuncu değerlerinin (in Euro) dağılımlarını oynadıkları en iyi pozisyona ve kullandıkları ayağa göre araştırınız.
+* Karakterlerin evlerine göre oranını veri görselleştirme yöntemleriyle araştırınız.
 
-* Biri Türkiye olmak şartıyla seçtiğiniz 10 ülkenin futbolcularının değerlerinin dağılımını araştırınız.
+* Karakterlerin evlerine ve muggle olması (iki gruba ayırınız: muggle ve diğerleri) durumlarına göre oranını veri görselleştirme yöntemleriyle araştırınız.
 
 
 ## Notlandırma
