@@ -56,34 +56,26 @@ SÖ - 8, 2, 3; BYÖ - 2, 9, 10; KD - 13, 8, 2; AGC - 1, 9, 11; MG - 7, 13, 1; MD
 * Başrol (Star3) oyuncularının oranlarını reyting değelerlerine göre (iki gruba ayırınız: 8 puan altı ve üstü) veri görselleştirme yöntemleriyle araştırınız. 
 
 
-**7. Friends dizisi** - https://www.kaggle.com/datasets/bcruise/friends-episode-data
-
-* Sezonlara göre IMDB puanlarının dağılımını araştırınız. En asimetrik puan dağılımı gözlemlenen sezonu belirleyiniz.
- 
-* Sezonlara göre oy sayısının dağılımını araştırınız. Puan sayıları arasında en yüksek farklılıkların gözlendiği sezonu belirleyiniz.
-
 
 **8. Breaking Bad dizisi** - https://www.kaggle.com/datasets/varpit94/breaking-bad-tv-show-all-seasons-episodes-data
 
-* Sezonlara göre bölüm süresi dağılımlarını inceleyiniz. Bölüm sürelerindeki en yüksek değişimin gözlendiği sezonu belirleyiniz.
+* Bölümlerin yazar sayısına göre oranlarını veri görselleştirme yöntemleriyle araştırınız.
 
-* Sezonlara göre rating dağılımlarını araştırınız. Rating değişiminin en düşük olduğu sezonu belirleyiniz.
-
-* Sezonlara göre izlenme sayısı dağılımlarını araştırınız. İzlenme sayısı değişiminin en düşük olduğu sezonu belirleyiniz.
+* Bölümlerin yazar sayısına ve reyting puanlarına (iki gruba ayırınız: 9 puan altı ve üstü) göre oranlarını veri görselleştirme yöntemleriyle araştırınız.
 
 
 **9. Marvel filmleri** - https://www.kaggle.com/datasets/jcraggy/marvel-vs-dc-imdb-rotten-tomatoes
 
-* 2000 yılı öncesi-2000 yılı ve sonrası Marvel filmlerinin IMDB puanlarının dağılımını araştırınız. Hangi dönemde puanların daha değişken olduğunu belirtiniz.
+* Filmlerin türlerine göre oranlarına veri görselleştirme yöntemleriyle araştırınız. (Her bir türü grafikte ayrı ayrı kullanınız, oranları iki veya daha fazla tür üzerinden etiketlemeyiniz.)
 
-* 2000 yılı öncesi-2000 yılı ve sonrası Marvel filmlerinin süre dağılımlarını araştırınız. Hangi dönemde film sürelerinin daha değişken olduğunu belirtiniz.
+* Filmlerin türlerine ve uzunluklarına (iki gruba ayırınız: 120 dakika altı ve üstü) göre oranlarına veri görselleştirme yöntemleriyle araştırınız. (Her bir türü grafikte ayrı ayrı kullanınız, oranları iki veya daha fazla tür üzerinden etiketlemeyiniz.)
 
 
 **10. Avengers karikatür karakterleri*** - https://www.kaggle.com/datasets/mmmarchetti/avengers
 
-* Karakterlerin çizgi romanlarda görülme sayılarının dağılımını güncel karakter olup olmamaları durumuna göre araştırınız.
+* Karakterlerin cinsiyetlerine göre oranını veri görselleştirme yöntemleriyle araştırınız.
 
-* Karakterlerin çizgi romanlarda görülme sayılarının dağılımını hem güncel karakter olup olmamaları durumu hem de cinsiyetlerine göre araştırınız.
+* Karakterlerin cinsiyetlerine ve ölüm durumlarına (yalnızca Death1) göre oranını veri görselleştirme yöntemleriyle araştırınız.
 
 
 **11. Türk TV dizileri** - https://www.kaggle.com/datasets/emreokcular/turkish-tv-series
