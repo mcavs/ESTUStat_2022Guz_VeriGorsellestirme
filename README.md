@@ -36,7 +36,13 @@ Aşağıdaki bağlantıları kullanarak haftalık ders kaydı videosu, sunum, ö
 
 ### Hafta 6. İlişkilerin Görselleştirilmesi - 25 Kasım 2022 14:00  - İL244
 
+[Sunum](https://github.com/mcavs/ESTUStat_2022Guz_VeriGorsellestirme/blob/main/Sunumlar/VG_Hafta6.pdf) 
+
+
 ### Hafta 7. Zaman Serilerinin Görselleştirilmesi - 2 Aralık 2022 14:00  - İL244
+
+[Sunum](https://github.com/mcavs/ESTUStat_2022Guz_VeriGorsellestirme/blob/main/Sunumlar/VG_Hafta7.pdf) 
+
 
 ### Hafta 8. Mekansal Verilerin Görselleştirilmesi - 9 Aralık 2022 14:00  - İL244
 
