@@ -1,6 +1,6 @@
 # Ödev 4
 
-(1) Özet bölümü, (2) atanan case'ler yer alan veri setinin tanıtımını içeren bir bölüm ve (3) case'lerde yer alan araştırma sorularının her biri bir bölüm olacak şekilde hazırladığınız (bu bölümlerde kullanılan kodlar, grafik ve grafiğe ilişkin işe yarar, özenli yorumlar yer almalı), Quarto kullanarak hazırladığınız ve "İsimSoyisim" şeklinde isimlendirdiğiniz PDF veya HTML formatındaki raporunuzu 24 Kasım Perşembe günü saat 23:59'a kadar bu klasöre yüklemeniz gerekmektedir.
+(1) Özet bölümü, (2) atanan case'ler yer alan veri setinin tanıtımını içeren bir bölüm ve (3) case'lerde yer alan araştırma sorularının her biri bir bölüm olacak şekilde hazırladığınız (bu bölümlerde kullanılan kodlar, grafik ve grafiğe ilişkin işe yarar, özenli yorumlar yer almalı), Quarto kullanarak hazırladığınız ve "İsimSoyisim" şeklinde isimlendirdiğiniz PDF veya HTML formatındaki raporunuzu 27 Kasım Pazar günü saat 23:59'a kadar bu klasöre yüklemeniz gerekmektedir.
 
 **OPSİYONEL**: Ödeviniz ile ilgili R kodları, çıktıları ve grafik yorumlarını içeren **(opsiyonel olarak)** hazırlayacağınız GitHub reposunu ödevinize eklemeniz durumunda, ayrıca geri bildirim yapacağımın altını çizmek isterim. 
 
