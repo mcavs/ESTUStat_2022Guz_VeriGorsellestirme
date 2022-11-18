@@ -155,7 +155,8 @@ ggplot(bridge) +
        y = "",
        fill = "Materyal") +
   scale_fill_discrete(labels = c("Demir", "Çelik", "Ahşap")) + 
-  scale_x_productlist(labels = c("El Yapımı", "Erken Dönem", "Olgunluk dönemi", "Modern"))
+  scale_x_productlist(labels = c("El Yapımı", "Erken Dönem", "Olgunluk dönemi", "Modern")) + 
+theme_bw()
 
 # pasta grafiklerinin nasıl özelleştirildiğine buradan ulaşabilirsiniz:
 # https://cran.r-project.org/web/packages/ggmosaic/vignettes/ggmosaic.html
