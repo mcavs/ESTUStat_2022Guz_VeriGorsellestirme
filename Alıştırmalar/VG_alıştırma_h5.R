@@ -112,12 +112,12 @@ library(dplyr) # veri üzerinde manipülasyon yapılması için
 # women_tidy.csv dosyasında bulabilirsiniz.
 # url olarak dosya bilgisayarınızda hangi konumdaysa onu kullanmalısınız.
 # ya da R Studio üzerinden "Import Dataset" butonunu kullanabilirsiniz.
-women <- read_csv("Downloads/dviz.supp-master/data-raw/women_parliaments/women_tidy.csv")
+women <- read_csv("women_tidy.csv")
 
 # Veri setindeki Türkiye satırlarını alalım, ve grafiği çizebilmek için
 # ihtiyacımız olan erkek oranını hesaplayarak, veriye ekleyelim.
 Turkey <- women %>% 
-  filter(country == "Turkey") %>%
+  filter(country == "Turkey", year > 2002) %>%
   mutate(perc_men = 100 - perc_women)
 
 # Veriyi düzenli (tidy) hale getirmek için pivot almamız gerekiyor.
@@ -136,8 +136,9 @@ ggplot(Turkey_pivoted, aes(fill = gender,
        y = "Göreli Yüzde (%)",
        fill = "Cinsiyet",
        title = "Türkiye Cumhuriyeti Parlamentosu Cinsiyet Oranı",
-       subtitle = "1990-2016") + 
-  scale_fill_discrete(labels = c("Erkek", "Kadın"))
+       subtitle = "2003-2016") + 
+  scale_fill_discrete(labels = c("Erkek", "Kadın")) +
+  theme_bw()
 
 
 # ----------------------------------------------------------------------------
