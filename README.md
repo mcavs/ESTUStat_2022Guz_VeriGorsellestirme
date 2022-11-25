@@ -34,21 +34,21 @@ Aşağıdaki bağlantıları kullanarak haftalık ders kaydı videosu, sunum, ö
 [Sunum](https://github.com/mcavs/ESTUStat_2022Guz_VeriGorsellestirme/blob/main/Sunumlar/VG_Hafta5.pdf) ❖ [R Alıştırmaları](https://github.com/mcavs/ESTUStat_2022Guz_VeriGorsellestirme/blob/main/Al%C4%B1%C5%9Ft%C4%B1rmalar/VG_al%C4%B1s%CC%A7t%C4%B1rma_h5.R) 
 
 
-### Hafta 6. İlişkilerin Görselleştirilmesi - 25 Kasım 2022 14:00  - İL244
+### Hafta 6. İlişkilerin ve Zaman Serilerinin Görselleştirilmesi - 25 Kasım 2022 14:00  - İL244
 
-[Sunum](https://github.com/mcavs/ESTUStat_2022Guz_VeriGorsellestirme/blob/main/Sunumlar/VG_Hafta6.pdf) ❖ [R Alıştırmaları](https://github.com/mcavs/ESTUStat_2022Guz_VeriGorsellestirme/blob/main/Al%C4%B1%C5%9Ft%C4%B1rmalar/VG_al%C4%B1s%CC%A7t%C4%B1rma_h6.R) 
-
-
-### Hafta 7. Zaman Serilerinin Görselleştirilmesi - 2 Aralık 2022 14:00  - İL244
-
-[Sunum](https://github.com/mcavs/ESTUStat_2022Guz_VeriGorsellestirme/blob/main/Sunumlar/VG_Hafta7.pdf) ❖ [R Alıştırmaları](https://github.com/mcavs/ESTUStat_2022Guz_VeriGorsellestirme/blob/main/Al%C4%B1%C5%9Ft%C4%B1rmalar/VG_al%C4%B1s%CC%A7t%C4%B1rma_h7.R) 
+[Sunum](https://github.com/mcavs/ESTUStat_2022Guz_VeriGorsellestirme/blob/main/Sunumlar/VG_Hafta6.pdf) ❖ [R Alıştırmaları](https://github.com/mcavs/ESTUStat_2022Guz_VeriGorsellestirme/blob/main/Al%C4%B1%C5%9Ft%C4%B1rmalar/VG_al%C4%B1s%CC%A7t%C4%B1rma_h6.R) ❖ [Sunum2](https://github.com/mcavs/ESTUStat_2022Guz_VeriGorsellestirme/blob/main/Sunumlar/VG_Hafta7.pdf) ❖ [R Alıştırmaları2](https://github.com/mcavs/ESTUStat_2022Guz_VeriGorsellestirme/blob/main/Al%C4%B1%C5%9Ft%C4%B1rmalar/VG_al%C4%B1s%CC%A7t%C4%B1rma_h7.R) 
 
 
-### Hafta 8. Mekansal Verilerin Görselleştirilmesi - 9 Aralık 2022 14:00  - İL244
+### Hafta 7. Mekansal Verilerin Görselleştirilmesi - 2 Aralık 2022 14:00  - İL244
 
-### Hafta 9. Görsel Tasarım İlkeleri ve Renk Kullanımında Yapılan Hatalar - 16 Aralık 2022 14:00  - İL244
 
-### Hafta 10. Yedekli Kodlama ve Çok Panelli Grafikler - 23 Aralık 2022 14:00  - İL244
+
+
+### Hafta 8. Görsel Tasarım İlkeleri ve Renk Kullanımında Yapılan Hatalar - 9 Aralık 2022 14:00  - İL244
+
+### Hafta 9. Yedekli Kodlama ve Çok Panelli Grafikler - 16 Aralık 2022 14:00  - İL244
+
+### Hafta 10. Proje Ön-inceleme - 23 Aralık 2022 14:00  - İL244
 
 ### Hafta 11. Proje Ön-inceleme - 30 Aralık 2022 14:00  - İL244
 
