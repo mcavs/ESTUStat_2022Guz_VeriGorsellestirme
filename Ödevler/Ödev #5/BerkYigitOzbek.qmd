@@ -1,0 +1,106 @@
+---
+title: "BerkYigitOZBEK"
+format: pdf
+editor: visual
+---
+
+### ZAMAN SERÝLERÝNE DAYALI VERÝLERÝN GÖRSELLEÞTÝRÝLMESÝ
+
+BERK YÝÐÝT ÖZBEK
+
+04/12/2022
+
+## ÖZET
+
+Bu raporda 3 farklý veri setine iliþkin belirli deðiþkenler üzerinde görselleþtirme ve analizi yapýlacaktýr. Ýlk olarak Marvel filmlerine iliþkin veri setlerinde IMDB oy sayýlarý ve film süreleri arasýndaki iliþkiyi yeterli ve tam þekilde gösteren grafiðin oluþturulmasý ve yorumlanmasýdýr. Ýkinci olarak ise NBA oyuncularýnýn istatistiksel veri seti üzerinde çeþitli deðiþkenlerin görselleþtirmesi ve yorumlasý, son olarak da benzer þekilde döviz kuruna iliþkin veri seti üzerinde görsel grafik oluþturma ve yorumlama iþlemleri yapýlmýþtýr.
+
+#Görselleþtirme Ýçin Gerekli Paketler
+
+```{r}
+install.packages("readr")
+install.packages("dplyr")
+install.packages("ggplot2")
+install.packages("MetBrewer")
+install.packages("tidyverse")
+install.packages("priceR")
+library(priceR)
+library(readr)
+library(dplyr)
+library(ggplot2)
+library(MetBrewer)
+library(tidyverse)
+
+```
+
+## 1) Marvel Filmleri Veri Seti
+
+Bu veri seti; Marvel Studios'dan 90 adet filmin imdb oy sayýsý, film süreleri, ilgili yönetmen... gibi deðiþkenlerin bulunduðu bir veri setidir.
+
+# 1.1) IMDB oy sayýlarý ve film süreleri arasýndaki iliþkinin görselleþtirilmesi ve yorumlanmasý.
+
+```{r}
+ggplot(mdc, aes(x = imdb_votes, y = runtime))+
+labs(x="IMDB Oy Sayýsý", y= "Film Süresi (Dakika)", 
+title = "'IMDB Oy Sayýsý' - 'Film Süresi' Ýliski Grafigi") +
+theme(plot.title=element_text(size=10)) + 
+  geom_point(color='#121211')+
+geom_smooth(se = TRUE,
+              span = 0.35, color="mediumblue")+ theme_minimal()
+```
+
+# Yorum
+
+Marvel filmlerinin dakika cinsinden sürelerinin büyük bir kýsmý 100 ile 150 dakika aralýðýnda olup imdb oy sayýlarýnýn yoðunluðunun ise 0'dan 750000'e uzandýðý görülmektedir. Grafikten yola çýkarak, film süreleri en uzun ve en kýsa olan iki filmin de imdb oyunun oldukça düþük olmasý ve film süresi 153 dakika olan bir filmin imdb oyunun en yüksek olduðunu görüyoruz. Bu aykýrý deðerlerin dýþýnda genel olarak bakýldýðýnda iki deðiþken arasýnda (film süresi - oy sayýsý) bir pozitif yönlü bir iliþki olduðunu söyleyebiliriz.
+
+## Döviz Kurlarý
+
+# 3.1) Son 10 yýlda, Türk lirasýnýn, Euro, Amerikan Dolarý ve Pound Karþýlýklarýnýn Deðiþimi
+
+```{r}
+TRY1 <- historical_exchange_rates(from = "TRY", to = "EUR",
+start_date = "2012-01-01", end_date = "2022-01-01")
+TRY2 <- historical_exchange_rates(from = "TRY", to = "USD",
+start_date = "2012-01-01", end_date = "2022-01-01")
+TRY3 <- historical_exchange_rates(from = "TRY", to = "GBP",
+start_date = "2012-01-01", end_date = "2022-01-01")
+cur1 <- TRY1 %>% left_join(TRY2, by = "date")
+cur2 <- cur1 %>% left_join(TRY3, by = "date")
+cur3 <- cur2 %>%
+tidyr:: pivot_longer(cols = starts_with("one"))
+ggplot(cur3, aes( x = date, y = value, color = name)) +
+geom_line() +
+labs(x = "Yýl", y = "Deger", color = "Para Birimi",
+title = " Türk lirasý deðerinin, Euro, Amerikan dolarý ve Pound cinsinden 10 Yýllýk Deðiþim Grafiði 
+",
+subtitle = "Çizgi Grafigi",
+caption = "https://www.kaggle.com") +
+scale_color_discrete(labels = c("Euro", " Amerikan Dolari",
+" Pound")) 
+
+```
+
+# YORUM
+
+Türk lirasýnýn diðer üç para birimi cinsinden deðeri yýllara göre incelendiðinde oldukça yüksek miktarda bir düþüþ gözlemlenmiþtir. Türk lirasýnýn USD, EUR ve GBP ile negatif yönlü bir iliþkisi olduðu açýktýr. Ayrýca grafikten, Pound'un diðer iki para birimine göre daha yüksek bir düþüþ içerisinde olduðu görülüyor.
+
+# 3.2) 3 Farklý Döviz Kurunun Amerikan Dolarý Karþýlýklarýnýn Görselleþtirilmesi
+
+```{r}
+dolarcad <- historical_exchange_rates(from = "USD", to = "CAD",
+start_date = "2012-01-01", end_date = "2022-01-01")
+dolareur <- historical_exchange_rates(from = "USD", to = "EUR",
+start_date = "2012-01-01", end_date = "2022-01-01")
+dolargbp <- historical_exchange_rates(from = "USD", to = "GBP",
+start_date = "2012-01-01", end_date = "2022-01-01")
+a <- dolarcad%>% left_join(dolareur, by = "date")
+b<- a %>% left_join(dolargbp, by = "date")
+c <- b %>%
+tidyr:: pivot_longer(cols = starts_with("one"))
+ggplot(c, aes( x = date, y = value, color = name)) + geom_line(size = 0.65) +
+labs(x = "Son 10 Yýl", y = "Dolarýn Para Birimlerine Karþýlýðý",title = " Son 10 Yýlda Dolarýn Kanada Dolarý, Euro ve Ýngiliz Sterlini Karþýlýðý ", color = "Para Birimi" ) +
+scale_color_discrete(labels = c("Kanada Dolarý", "Euro", "Ýngiliz Sterlini"))
+```
+
+# Yorum
+
+Son 10 yýl içerisinde Amerikan Dolarý, Euro ve Ýngiliz Sterlini karþýsýnda Kanada Dolarýna göre daha az deðer kazanmýþtýr. Kanada Dolarýnýn kaybettiði deðer diðer iki para birimine göre daha fazladýr.
