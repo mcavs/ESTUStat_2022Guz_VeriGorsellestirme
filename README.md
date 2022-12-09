@@ -46,7 +46,7 @@ Aşağıdaki bağlantıları kullanarak haftalık ders kaydı videosu, sunum, ö
 
 ### Hafta 8. Görsel Tasarım İlkeleri ve Renk Kullanımında Yapılan Hatalar - 9 Aralık 2022 14:00  - İL244
 
-[Sunum](https://github.com/mcavs/ESTUStat_2022Guz_VeriGorsellestirme/blob/main/Sunumlar/VG_Hafta8.pdf) ❖ [R textvis uygulamaları]()
+[Sunum](https://github.com/mcavs/ESTUStat_2022Guz_VeriGorsellestirme/blob/main/Sunumlar/VG_Hafta8.pdf) ❖ [R textvis uygulamaları](https://github.com/mcavs/ESTUStat_2022Guz_VeriGorsellestirme/blob/main/Al%C4%B1%C5%9Ft%C4%B1rmalar/R_textvis.R)
 
 
 ### Hafta 9. Yedekli Kodlama ve Çok Panelli Grafikler - 16 Aralık 2022 14:00  - İL244
