@@ -51,6 +51,8 @@ Aşağıdaki bağlantıları kullanarak haftalık ders kaydı videosu, sunum, ö
 
 ### Hafta 9. Yedekli Kodlama ve Çok Panelli Grafikler - 16 Aralık 2022 14:00  - İL244
 
+[Sunum](https://github.com/mcavs/ESTUStat_2022Guz_VeriGorsellestirme/blob/main/Sunumlar/VG_Hafta9.pdf)
+
 ### Hafta 10. Proje Ön-inceleme - 23 Aralık 2022 14:00  - İL244
 
 ### Hafta 11. Proje Ön-inceleme - 30 Aralık 2022 14:00  - İL244
