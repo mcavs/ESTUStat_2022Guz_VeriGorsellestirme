@@ -24,7 +24,9 @@ Ele alınan bir problemi - verilmek istenen bir mesajı - veri hikaye anlatıcı
 
 * Veri kaynağı metin içerisinde mutlaka belirtilmelidir. 
 
-* Poster hazırlamak için R Markdown, Quarto, [Canva](https://www.canva.com/), PowerPoint vb
+* Grafiklerin çözünürlükleri kontrol edilmelidir, çözünürlüğü düşük grafiklerin posterin okunmasını zorlaştıracağını unutmayınız. Posterde kullanılan metinlerin boyutuna uygun olarak grafik içerisinde kullanılan başlık, metin ve estetiklerin boyutunu ayarlayabilirsiniz.
+
+* Poster hazırlamak için R Markdown, Quarto, [Canva](https://www.canva.com/), PowerPoint vb. herhangi bir aracı kullanabilirsiniz.
 
 * best poster yöntemine [buradan](https://github.com/GerkeLab/betterposter) göz atabilir, şablonlarından yararlanabilirsiniz.
 
