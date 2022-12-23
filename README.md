@@ -55,6 +55,10 @@ Aşağıdaki bağlantıları kullanarak haftalık ders kaydı videosu, sunum, ö
 
 ### Hafta 10. Proje Ön-inceleme - 23 Aralık 2022 14:00  - İL244
 
+Proje detaylarına [buradan](https://github.com/mcavs/ESTUStat_2022Guz_VeriGorsellestirme/blob/main/Projeler/Readme.md) ulaşabilirsiniz.
+
 ### Hafta 11. Proje Ön-inceleme - 30 Aralık 2022 14:00  - İL244
+
+Proje detaylarına [buradan](https://github.com/mcavs/ESTUStat_2022Guz_VeriGorsellestirme/blob/main/Projeler/Readme.md) ulaşabilirsiniz.
 
 ### Hafta 12. Proje Sunumları - 6 Ocak 2023 14:00  - İL244
