@@ -18,13 +18,13 @@ Ele alınan bir problemi - verilmek istenen bir mesajı - veri hikaye anlatıcı
 
 ## Poster Hazırlarken Dikkat Edilmesi Gerekenler
 
-* A0 boyutunda, pdf olarak, dikey ya da yatay formda hazırlanmalıdır. Dijital ortamda sunulacağı için, basılmasına gerek yoktur. 
+* A0 boyutunda, pdf olarak, dikey formda hazırlanmalıdır. Dijital ortamda sunulacağı için, basılmasına gerek yoktur. 
 
 * Üzerinde hazırlayan kişi(ler)in isim, kurum ve iletişim (yalnızca e-posta) adresleri yer almalıdır. 
 
 * Veri kaynağı metin içerisinde mutlaka belirtilmelidir. 
 
-* Poster hazırlama detaylarına [buradan](http://w3.bilecik.edu.tr/cografya/wp-content/uploads/sites/14/2017/03/Poster_ya_da_Poster_Bildiri_Nasil_Hazirlanir_-Uyumluluk-Modu.pdf) göz atabilirsiniz. Lütfen yalnızca bu kaynak ile sınırlı kalmayın, çok sayıda kaynağa internet üzerinden ulaşmanız mümkündür.
+* Poster hazırlamak için R Markdown, Quarto, [Canva](https://www.canva.com/), PowerPoint vb
 
 * best poster yöntemine [buradan](https://github.com/GerkeLab/betterposter) göz atabilir, şablonlarından yararlanabilirsiniz.
 
