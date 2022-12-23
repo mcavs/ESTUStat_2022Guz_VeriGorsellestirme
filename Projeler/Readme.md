@@ -1,27 +1,32 @@
-# Proje 
+# Dönem Sonu Projesi 
 
-## Konu: Ele alınan bir problemi, verilmek istenen bir mesajı, veri hikaye anlatıcılığı yoluyla anlatan bir poster hazırlamak. 
+## Konu
 
-## Poster Hazırlarken Dikkat Edilmesi Gerekenler:
+Ele alınan bir problemi - verilmek istenen bir mesajı - veri hikaye anlatıcılığı yoluyla anlatan bir poster hazırlamak. 
 
-* Hazırladığınız posterler, özgünlük, yaratıcılık ve ders boyunca öğrendiğimiz kavram ve yöntemlerin doğru kullanılması olmak üzere 3 eksende değerlendirilecektir.
+
+## Değerlendirme
+
+1. Hazırlanan posterler, (1) İçerik ve anlatım (20 puan), (2) Çeşitli grafiklerin kullanımı (30 puan), (3) Uygun grafik seçimi ve gerekli düzenlemelerin yapılması (30 puan) maddelerine göre değerlendirilecektir.
+
+2. Posterde kullanılan grafiklerin hazırlanmasında kullanılan tüm içeriği kapsayan bir GitHub Repository'sinin hazırlanması (20 Puan). Repo aşağıdakileri içermelidir:
+    * Readme.md sayfası (Grafik çıktılar, grafikleri hazırlamak için kullanılan kodlar, veri kaynağı bilgisini içermelidir.)
+    * Grafik dosyaları (png ya da pdf formatında).
+    * Kod dosyaları(.R dosyası formatında)
+    * Veri dosyası
+
+
+## Poster Hazırlarken Dikkat Edilmesi Gerekenler
 
 * A0 boyutunda, pdf olarak, dikey ya da yatay formda hazırlanmalıdır. Dijital ortamda sunulacağı için, basılmasına gerek yoktur. 
 
 * Üzerinde hazırlayan kişi(ler)in isim, kurum ve iletişim (yalnızca e-posta) adresleri yer almalıdır. 
 
-* Son bölümünde aşağıdaki bölümlerin kim ya da kimler tarafından hazırlandığını (görev dağılımını) gösteren bir bölüm yer almalıdır:
-
-    * Problemin tanımlanması
-    * Verilerin toplanması
-    * Grafiklerin hazırlanması
-    * Poster tasarımı
-
 * Veri kaynağı metin içerisinde mutlaka belirtilmelidir. 
 
 * Poster hazırlama detaylarına [buradan](http://w3.bilecik.edu.tr/cografya/wp-content/uploads/sites/14/2017/03/Poster_ya_da_Poster_Bildiri_Nasil_Hazirlanir_-Uyumluluk-Modu.pdf) göz atabilirsiniz. Lütfen yalnızca bu kaynak ile sınırlı kalmayın, çok sayıda kaynağa internet üzerinden ulaşmanız mümkündür.
 
-* Severek kullandığım best poster yöntemine [buradan](https://github.com/GerkeLab/betterposter) göz atabilir, şablonlarından yararlanabilirsiniz.
+* best poster yöntemine [buradan](https://github.com/GerkeLab/betterposter) göz atabilir, şablonlarından yararlanabilirsiniz.
 
 
 ## Kullanılabilecek veri kaynakları:
