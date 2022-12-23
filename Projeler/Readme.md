@@ -35,7 +35,7 @@ Ele alınan bir problemi - verilmek istenen bir mesajı - veri hikaye anlatıcı
 
 * İTÜ Matematik Mühendisliği bölümünde verilen [Introduction to Data Science](https://github.com/MAT381E-Fall21#data-related-links) dersinin GitHub reposunda yer alan veri kaynklarına göz atabilirsiniz.
 
-* R'da veri kazıma yöntemlerini kullanarak web sayfalarından ve sosyal medya kanallarından veri çekebilirsiniz, örnek uygulamalara [buradan](http://applied-r.com/web-scrapping/#) ulaşabilirsiniz.
+* R'da bazı uluslararası resmi veri kaynaklarına [buradan](https://github.com/mcavs/R-open-dataset-packages) ulaşabilirsiniz.
 
 
 ### Fikir vermesi için bazı örnekler:
