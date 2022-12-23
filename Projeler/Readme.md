@@ -18,12 +18,12 @@ Ele alınan bir problemi - verilmek istenen bir mesajı - veri hikaye anlatıcı
     
 ## Sunum
 
-Proje sunumları, 6 Ocak 2023 Cuma günü saat 14.00-16.00 arasında, üüm Fakülte çalışan ve öğrencilerine açık olarak Fen Fakültesi Fuaye Alanı'nda yapılması planlanmaktatır. Bu saat aralığında her grup ya da bireysel çalışmanın çıktılarını aldıkları posterlerini alanda hazır bulunacak panolara asmaları gerekmektedir. Gerekli hazırlığın en geç 15 dakika öncesinde tamamlanmış olması gerekmektedir. 
+Proje sunumları, 6 Ocak 2023 Cuma günü saat 14.00-16.00 arasında, tüm Fakülte çalışan ve öğrencilerine açık olarak Fen Fakültesi Fuaye Alanı'nda yapılması planlanmaktatır. Bu saat aralığında her grup ya da bireysel çalışmanın çıktılarını aldıkları posterlerini alanda hazır bulunacak panolara asmaları gerekmektedir. Gerekli hazırlığın en geç 15 dakika öncesinde tamamlanmış olması gerekmektedir. 
 
 
 ## Poster Hazırlarken Dikkat Edilmesi Gerekenler
 
-* A0 boyutunda, pdf olarak, dikey formda hazırlanmalıdır. Dijital ortamda sunulacağı için, basılmasına gerek yoktur. 
+* A0 boyutunda, pdf olarak, dikey formda hazırlanmalıdır. 
 
 * Üzerinde hazırlayan kişi(ler)in isim, kurum ve iletişim (yalnızca e-posta) adresleri yer almalıdır. 
 
