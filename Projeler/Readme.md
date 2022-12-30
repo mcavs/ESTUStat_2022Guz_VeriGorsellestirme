@@ -23,7 +23,7 @@ Proje sunumları, 6 Ocak 2023 Cuma günü saat 14.00-16.00 arasında, tüm Fakü
 
 ## Poster Hazırlarken Dikkat Edilmesi Gerekenler
 
-* A0 boyutunda, pdf olarak, dikey formda hazırlanmalıdır. 
+* **A1** boyutunda dikey formda hazırlanmalıdır. 
 
 * Üzerinde hazırlayan kişi(ler)in isim, kurum ve iletişim (yalnızca e-posta) adresleri yer almalıdır. 
 
