@@ -1,27 +1,27 @@
 
-## Posterler
+# Posterler
 
-### Sezai Ufuk ORAL - [Ülkelerin Yönetim Biçimleri ve İnsanlara Etkileri](https://github.com/ufukdev34/veri_gorsellestirme__proje)
+## [Ülkelerin Yönetim Biçimleri ve İnsanlara Etkileri](https://github.com/ufukdev34/veri_gorsellestirme__proje) - Sezai Ufuk ORAL 
 
 <img src="https://github.com/mcavs/ESTUStat_2022Guz_VeriGorsellestirme/blob/main/Projeler/Posterler/sezaiufukoral.png" width="800">
 
 
-Ahmet Gürkan CENNET - [Spotify'da En Çok Dinlenen 100 Şarkı Veri Setinin Görselleştirilmesi](https://github.com/iamagc/Top-100-Most-Streamed-Songs-on-Spotify-Spotify-Data-Visualization)
+## [Spotify'da En Çok Dinlenen 100 Şarkı Veri Setinin Görselleştirilmesi](https://github.com/iamagc/Top-100-Most-Streamed-Songs-on-Spotify-Spotify-Data-Visualization) - Ahmet Gürkan CENNET 
 
-Berk Yiğit ÖZBEK & Melih GÜNDÜZ - [Veri Görselleştirmede Renk Kullanımı](https://github.com/byozbek/Veri-Gorsellestirmede-Renk-Kullanimi)
+## [Veri Görselleştirmede Renk Kullanımı](https://github.com/byozbek/Veri-Gorsellestirmede-Renk-Kullanimi) - Berk Yiğit ÖZBEK & Melih GÜNDÜZ 
 
-Koray DEMİR & Sercan ÖNCÜ - [Yaşam Maliyeti](https://github.com/sercaanoncu/Yasam_Maliyeti)
+## [Yaşam Maliyeti](https://github.com/sercaanoncu/Yasam_Maliyeti) - Koray DEMİR & Sercan ÖNCÜ 
 
-Merthan DOĞAN - [Oyun Camiası Nereye Gidiyor?](https://github.com/merthandogan/Oyun-Camiasi-Veri-Gorsellestirme)
+## [Oyun Camiası Nereye Gidiyor?](https://github.com/merthandogan/Oyun-Camiasi-Veri-Gorsellestirme) - Merthan DOĞAN 
 
-Burak ŞENER - [Satranç Verilerinin İncelenmesi](https://github.com/brksener/ESTUStat_2022Guz_VeriGorsellestirme_Proje)
+## [Satranç Verilerinin İncelenmesi](https://github.com/brksener/ESTUStat_2022Guz_VeriGorsellestirme_Proje) - Burak ŞENER 
 
-## Ahmet Batuhan ÖZDOĞAN - [Oyun Satış Oranları](https://github.com/BatuhanOzdgn/Ahmet-Batuhan-Ozdogan-Proje)
+## [Oyun Satış Oranları](https://github.com/BatuhanOzdgn/Ahmet-Batuhan-Ozdogan-Proje) - Ahmet Batuhan ÖZDOĞAN 
 
 
 
-Beste ÜNAL & Zeynep Afra SEZER - [](https://github.com/Beste5/Su-T-rleri)
+## [](https://github.com/Beste5/Su-T-rleri) - Beste ÜNAL & Zeynep Afra SEZER 
 
-Hüseyin KAYAR - [Şah Mat](https://github.com/huseyinkayar/Veri_Gorsellestirme_Final_Odevi)
+## [Şah Mat](https://github.com/huseyinkayar/Veri_Gorsellestirme_Final_Odevi) - Hüseyin KAYAR 
 
-Rümeysa KURT & Sahranur İNCE - [Müziğin Mental Hastalıklara Etkisi](https://github.com/rumeysakurt/Veri-Gorsellestirme-Dersi-Proje)
+## [Müziğin Mental Hastalıklara Etkisi](https://github.com/rumeysakurt/Veri-Gorsellestirme-Dersi-Proje) - Rümeysa KURT & Sahranur İNCE
