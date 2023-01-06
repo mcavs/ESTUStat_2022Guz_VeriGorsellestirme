@@ -13,7 +13,9 @@ Merthan DOĞAN - [Oyun Camiası Nereye Gidiyor?](https://github.com/merthandogan
 
 Burak ŞENER - [Satranç Verilerinin İncelenmesi](https://github.com/brksener/ESTUStat_2022Guz_VeriGorsellestirme_Proje)
 
-Ahmet Batuhan ÖZDOĞAN - [Oyun Satış Oranları](https://github.com/BatuhanOzdgn/Ahmet-Batuhan-Ozdogan-Proje)
+## Ahmet Batuhan ÖZDOĞAN - [Oyun Satış Oranları](https://github.com/BatuhanOzdgn/Ahmet-Batuhan-Ozdogan-Proje)
+
+![](https://github.com/mcavs/ESTUStat_2022Guz_VeriGorsellestirme/blob/main/Projeler/Posterler/ahmetbatuhanozdogan.pdf)
 
 Beste ÜNAL & Zeynep Afra SEZER - [](https://github.com/Beste5/Su-T-rleri)
 
