@@ -1,6 +1,8 @@
 
 # Posterler
 
+Eskişehir Teknik Üniversitesi İstatistik Bölümü'nde 2022-2023 Öğrenim Yılı Güz Dönemi'nde yürütülen **Veri Görselleştirme** dersi final proje posterleri
+
 ## [Müziğin Mental Hastalıklara Etkisi](https://github.com/rumeysakurt/Veri-Gorsellestirme-Dersi-Proje) - Rümeysa KURT ([@rumeysakurt](https://github.com/rumeysakurt)) & Sahranur İNCE ([@sahranurince](https://github.com/sahranurince)) 
 
 <img src="https://github.com/mcavs/ESTUStat_2022Guz_VeriGorsellestirme/blob/main/Projeler/Posterler/rumeysasahranur-1.png" width="800">
