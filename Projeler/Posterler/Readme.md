@@ -5,6 +5,7 @@
 
 <img src="https://github.com/mcavs/ESTUStat_2022Guz_VeriGorsellestirme/blob/main/Projeler/Posterler/rumeysasahranur-1.png" width="800">
 
+#
 
 ## [Türkiye'de Şuç Oranları Artıyor!](https://github.com/Beste5/Su-T-rleri) - Beste ÜNAL ([@Beste5](https://github.com/Beste5)) & Zeynep Afra SEZER ([@zeynepszr](https://github.com/zeynepszr))
 
