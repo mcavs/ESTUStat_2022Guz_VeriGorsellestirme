@@ -1,7 +1,7 @@
 
 ## Posterler
 
-Sezai Ufuk ORAL - [Ülkelerin Yönetim Biçimleri ve İnsanlara Etkileri](https://github.com/ufukdev34/veri_gorsellestirme__proje)
+### Sezai Ufuk ORAL - [Ülkelerin Yönetim Biçimleri ve İnsanlara Etkileri](https://github.com/ufukdev34/veri_gorsellestirme__proje)
 
 <img src="https://github.com/mcavs/ESTUStat_2022Guz_VeriGorsellestirme/blob/main/Projeler/Posterler/sezaiufukoral.png" width="800">
 
