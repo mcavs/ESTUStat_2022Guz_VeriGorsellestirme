@@ -19,6 +19,13 @@ Merthan DOĞAN - [Oyun Camiası Nereye Gidiyor?](https://github.com/merthandogan
 
 Burak ŞENER - [Satranç Verilerinin İncelenmesi](https://github.com/brksener/ESTUStat_2022Guz_VeriGorsellestirme_Proje)
 
+Ahmet Batuhan ÖZDOĞAN - [Oyun Satış Oranları](https://github.com/BatuhanOzdgn/Ahmet-Batuhan-Ozdogan-Proje)
+
+Beste ÜNAL & Zeynep Afra SEZER - [](https://github.com/Beste5/Su-T-rleri)
+
+Hüseyin KAYAR - [Şah Mat](https://github.com/huseyinkayar/Veri_Gorsellestirme_Final_Odevi)
+
+Rümeysa KURT & Sahranur İNCE - [Müziğin Mental Hastalıklara Etkisi](https://github.com/rumeysakurt/Veri-Gorsellestirme-Dersi-Proje)
 
 
 ## Değerlendirme
